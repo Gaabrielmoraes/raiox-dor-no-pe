@@ -1,0 +1,35 @@
+{
+ "koprez.com": {
+  "anuncia": true,
+  "contagem": 600,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=koprez.com"
+ },
+ "onecompress.com": {
+  "anuncia": true,
+  "contagem": 300,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=onecompress.com"
+ },
+ "stepprs.com": {
+  "anuncia": null,
+  "status": "NAO PARSEOU o contador — ler o .txt bruto manualmente antes de declarar",
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=stepprs.com"
+ },
+ "orthoflexx.com": {
+  "anuncia": true,
+  "contagem": 200,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=orthoflexx.com"
+ },
+ "getfootstr.com": {
+  "anuncia": true,
+  "contagem": 30,
+  "status": "consultado",
+  "criativos_com_data_visivel": 0,
+  "url": "https://adstransparency.google.com/?region=anywhere&domain=getfootstr.com"
+ }
+}

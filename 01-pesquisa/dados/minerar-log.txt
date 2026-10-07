@@ -1,0 +1,86 @@
+﻿Mineração — 9 tarefa(s) | pais=US | status=active | midia=all | max=150/tarefa
+Fonte: Biblioteca pública (o MCP não entrega copy, criativo nem landing page)
+
+== busca: plantar fasciitis
+    150 anúncios
+
+== busca: heel pain relief
+    150 anúncios
+
+== busca: foot pain relief
+    150 anúncios
+
+== busca: arch support insoles
+    150 anúncios
+
+== busca: heel spur
+    150 anúncios
+
+== busca: feet hurt standing all day
+    150 anúncios
+
+== busca: night splint plantar fasciitis
+    150 anúncios
+
+== busca: compression socks plantar fasciitis
+    150 anúncios
+
+== busca: orthotic insoles
+    150 anúncios
+
+=== RESULTADO ===
+anúncios únicos: 1101   |   marcas: 305
+arquivo: C:\Users\Gabriel\OneDrive\00 - Digital\000 - Mentoria GlobalBrand\01 - Loja Gringa\Raiox - Dor no Pe\01-pesquisa\dados\mineracao-2026-10-06-15-37.json
+
+=== ESCALA (tempo no ar · variações · nº de anúncios) ===
+ ord  dias  var  ads  sust  marca / domínio
+   1   192  101   65   SIM  Koprez  → offers.koprez.com
+   2   435   81   35   SIM  Stepprs  → stepprs.com
+   3   139   62   56   SIM  Pocket FM Stories  → itunes.apple.com
+   4   191   61   44   SIM  InvigorFate  → offers.koprez.com
+   5   524   48   29   SIM  The Xstance  → getxstance.com
+   6   133   76   30   SIM  Feetures  → feetures.com
+   7   385   20   20   SIM  PowerStep  → powerstep.com
+   8    77   68   24   SIM  Senior Health Insider  → trybronoir.com
+   9   370   17   13   SIM  OrthoFlexx  → orthoflexx.com
+  10   179   26   26   SIM  Foot Care Tips  → getxstance.com
+  11   184   27   21   SIM  One Compress  → onecompress.com
+  12   509    6    6   SIM  Foot Relief Journal  → try.hikebalance.com
+  13   184   20   15   SIM  Pure Living Relief  → onecompress.com
+  14  1764    2    2   SIM  Castle Flexx  → castleflexx.com
+  15   666    2    2   SIM  InStride Capital Foot & Ankle Centers  → northcarolinafootandankle.com
+sust = passou de 60 dias ininterruptos no ar (o anúncio já se pagou)
+
+=== COBERTURA DOS CAMPOS ===
+1101/1101  adArchiveId
+1101/1101  adLibraryUrl
+1101/1101  pageId
+1101/1101  pageName
+1101/1101  pageUrl
+1100/1101  pageProfilePictureUrl
+1100/1101  pageCategories
+1100/1101  pageLikeCount
+1101/1101  isActive
+1101/1101  startDate
+1101/1101  endDate
+1101/1101  platforms
+1101/1101  bodyText
+1072/1101  title
+1094/1101  ctaText
+1094/1101  ctaType
+1094/1101  linkUrl
+1094/1101  linkDomain
+1093/1101  linkCaption
+ 763/1101  linkDescription
+1100/1101  displayFormat
+ 477/1101  imageUrls
+ 630/1101  videoUrls
+ 630/1101  videoPreviewUrls
+1101/1101  categories
+1101/1101  containsAiMedia
+  22/1101  impressions
+   0/1101  spend
+   0/1101  currency
+1101/1101  gatedType
+ 923/1101  collationCount
+ 236/1101  cardsCount

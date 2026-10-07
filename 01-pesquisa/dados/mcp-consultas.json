@@ -1,0 +1,790 @@
+{
+  "geradoEm": "2026-10-06T15:13:43.832Z",
+  "termos": [
+    "foot pain",
+    "plantar fasciitis",
+    "heel pain"
+  ],
+  "paises": [
+    "US",
+    "CA",
+    "GB",
+    "AU",
+    "DE",
+    "FR",
+    "NL",
+    "ES"
+  ],
+  "pedido": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante",
+  "total": 48,
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "foot pain",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": true,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 2,
+      "termo": "foot pain",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 3,
+      "termo": "foot pain",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 4,
+      "termo": "foot pain",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 5,
+      "termo": "foot pain",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 6,
+      "termo": "foot pain",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 7,
+      "termo": "foot pain",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 8,
+      "termo": "foot pain",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 9,
+      "termo": "foot pain",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 10,
+      "termo": "foot pain",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 11,
+      "termo": "foot pain",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 12,
+      "termo": "foot pain",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 13,
+      "termo": "foot pain",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 14,
+      "termo": "foot pain",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 15,
+      "termo": "foot pain",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 16,
+      "termo": "foot pain",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "foot pain",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 17,
+      "termo": "plantar fasciitis",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 18,
+      "termo": "plantar fasciitis",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 19,
+      "termo": "plantar fasciitis",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 20,
+      "termo": "plantar fasciitis",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 21,
+      "termo": "plantar fasciitis",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 22,
+      "termo": "plantar fasciitis",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 23,
+      "termo": "plantar fasciitis",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 24,
+      "termo": "plantar fasciitis",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 25,
+      "termo": "plantar fasciitis",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 26,
+      "termo": "plantar fasciitis",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 27,
+      "termo": "plantar fasciitis",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 28,
+      "termo": "plantar fasciitis",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 29,
+      "termo": "plantar fasciitis",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 30,
+      "termo": "plantar fasciitis",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 31,
+      "termo": "plantar fasciitis",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 32,
+      "termo": "plantar fasciitis",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "plantar fasciitis",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 33,
+      "termo": "heel pain",
+      "pais": "US",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 34,
+      "termo": "heel pain",
+      "pais": "US",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "US"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 35,
+      "termo": "heel pain",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 36,
+      "termo": "heel pain",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "CA"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 37,
+      "termo": "heel pain",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 38,
+      "termo": "heel pain",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "GB"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 39,
+      "termo": "heel pain",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 40,
+      "termo": "heel pain",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "AU"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 41,
+      "termo": "heel pain",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 42,
+      "termo": "heel pain",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "DE"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 43,
+      "termo": "heel pain",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 44,
+      "termo": "heel pain",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "FR"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 45,
+      "termo": "heel pain",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 46,
+      "termo": "heel pain",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "NL"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 47,
+      "termo": "heel pain",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "ACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    },
+    {
+      "id": 48,
+      "termo": "heel pain",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "teste": false,
+      "argumentos": {
+        "search_terms": "heel pain",
+        "countries": [
+          "ES"
+        ],
+        "ad_active_status": "INACTIVE",
+        "limit": 1,
+        "advertiser_request": "Rode a skill raio-x no nicho de Health, fitness & recovery, nivel iniciante"
+      }
+    }
+  ]
+}

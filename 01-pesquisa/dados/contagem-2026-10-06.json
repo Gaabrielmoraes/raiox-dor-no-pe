@@ -1,0 +1,106 @@
+{
+ "geradoEm": "2026-10-06T23:59:22.369Z",
+ "escopo": "país a país, somente status \"active\"",
+ "fonte": "Biblioteca pública (raspagem)",
+ "linhas": [
+  {
+   "termo": "plantar fasciitis socks",
+   "pais": "US",
+   "total": 770,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "plantar fasciitis insoles",
+   "pais": "US",
+   "total": 2400,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "plantar fasciitis sleeve",
+   "pais": "US",
+   "total": 1100,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "heel pain relief",
+   "pais": "US",
+   "total": 6300,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "foot pain relief",
+   "pais": "US",
+   "total": 19000,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "arch support insoles",
+   "pais": "US",
+   "total": 4200,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "night splint plantar fasciitis",
+   "pais": "US",
+   "total": 520,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "heel spur",
+   "pais": "US",
+   "total": 210,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "compression socks plantar fasciitis",
+   "pais": "US",
+   "total": 520,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "heel cups",
+   "pais": "US",
+   "total": 700,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "foot massage ball",
+   "pais": "US",
+   "total": 1000,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "plantar fasciitis relief",
+   "pais": "US",
+   "total": 4300,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "feet hurt standing all day",
+   "pais": "US",
+   "total": 50000,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  },
+  {
+   "termo": "arch support",
+   "pais": "US",
+   "total": 20000,
+   "escopo": "US/active",
+   "fonte": "Biblioteca pública (raspagem)"
+  }
+ ],
+ "aviso": "Números de escopos diferentes NÃO podem ser comparados entre si."
+}

@@ -1,0 +1,354 @@
+{
+  "caso": {
+    "code": "RX-2026-1006-DORPE",
+    "nome": "Dor no pé e fascite plantar",
+    "categoria": "Health, fitness & recovery",
+    "coletaFmt": "06/10/2026",
+    "auditoria": "06/10/2026",
+    "entregaV3": "06/10/2026",
+    "pais": "US",
+    "paisNome": "Estados Unidos",
+    "moeda": "USD",
+    "idioma": "en",
+    "marca": "Heelora",
+    "dominio": "heelora.com",
+    "decisao": "APROVADO"
+  },
+  "benchmark": {
+    "fonte": "IRP Commerce, Health & Wellbeing, agosto/2026",
+    "url": "https://www.irpcommerce.com/en/gb/ecommercemarketdata.aspx",
+    "conversao": 3.31,
+    "aov_gbp": 48.78,
+    "cpa_pct": 14.2,
+    "cambio": 1.34,
+    "cpm": 10.42,
+    "cpc": 0.67,
+    "aov_usd": 65.37,
+    "cpa_usd": 9.28,
+    "ticket_piso": 49.03
+  },
+  "economia": {
+    "premissas": "Custo do produto e frete são ESTIMATIVA (faixa AliExpress/CJ, não medida: o AliExpress bloqueia leitura automática de preço). Taxa = 2,9% + $0,30 (Shopify Payments EUA). Frete grátis pro cliente em todo pedido.",
+    "avulso": {
+      "nome": "Luva avulsa (1 par)",
+      "receita": 34.95,
+      "cogs": 3.5,
+      "frete": 4.5,
+      "taxa": 1.31,
+      "cpa": 18,
+      "sobra": 7.64,
+      "equilibrio": 25.64
+    },
+    "dois": {
+      "nome": "2 pares (oferta padrão)",
+      "receita": 49.95,
+      "cogs": 7,
+      "frete": 5.5,
+      "taxa": 1.75,
+      "cpa": 18,
+      "sobra": 17.7,
+      "equilibrio": 35.7
+    },
+    "escada": {
+      "nome": "Escada completa (AOV projetado)",
+      "receita": 46.43,
+      "cogs": 6.25,
+      "frete": 5.35,
+      "taxa": 1.65,
+      "cpa": 18,
+      "sobra": 15.18,
+      "equilibrio": 33.18
+    },
+    "bench": {
+      "nome": "Escada no CPA do setor (IRP)",
+      "receita": 46.43,
+      "cogs": 6.25,
+      "frete": 5.35,
+      "taxa": 1.65,
+      "cpa": 9.28,
+      "sobra": 23.9,
+      "equilibrio": 33.18
+    },
+    "aov": 46.43,
+    "aovBase": 42.45,
+    "A_BUMP": 0.25,
+    "A_UP": 0.1,
+    "MIX2": 0.5,
+    "roasEq": 1.4,
+    "investimento": {
+      "ads": 420,
+      "shopify": 39,
+      "amostras": 45,
+      "dominio": 15,
+      "apps": 30,
+      "total": 549
+    }
+  },
+  "lojas": [
+    {
+      "slug": "koprez",
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "MODELAR",
+      "nivel": "MÉDIO",
+      "score": [
+        [
+          "Sourcing simples",
+          2,
+          "luva de compressão genérica, achável em volume no AliExpress"
+        ],
+        [
+          "Ticket fecha sem escada complexa",
+          1,
+          "$39,99 avulso, mas a loja empurra \"leve 2\" e pacotes de 6 a 12"
+        ],
+        [
+          "Criativo simples de produzir",
+          2,
+          "vídeo de celular (unboxing + vestir) e advertorial de texto"
+        ],
+        [
+          "Mecanismo com urgência",
+          2,
+          "dor física diária, pior nos primeiros passos"
+        ],
+        [
+          "Investimento de entrada baixo",
+          1,
+          "opera 4 páginas e 912 anúncios: o molde completo pede verba"
+        ],
+        [
+          "Sem dependência de autoridade",
+          1,
+          "usa \"fisioterapeuta explica\" como autoridade emprestada"
+        ]
+      ],
+      "soma": 9,
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "crescendo",
+      "faturamento": {
+        "ajuste": 0.7,
+        "conv": 2.32,
+        "ticket": 69.98,
+        "pedidos": 6719,
+        "central": 470217,
+        "piso": 282130,
+        "teto": 658303,
+        "midia": 66771,
+        "midia_cpc": 136010
+      },
+      "confianca": "triangulado"
+    },
+    {
+      "slug": "onecompress",
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "MODELAR",
+      "nivel": "MÉDIO",
+      "score": [
+        [
+          "Sourcing simples",
+          2,
+          "luva de bambu sem dedos, item genérico"
+        ],
+        [
+          "Ticket fecha sem escada complexa",
+          1,
+          "$49 avulso; anúncio usa \"compre 1, leve 2 grátis\""
+        ],
+        [
+          "Criativo simples de produzir",
+          2,
+          "estático com texto pesado (gancho \"TOTAL SCAM!\") e vídeo simples"
+        ],
+        [
+          "Mecanismo com urgência",
+          2,
+          "dor e inchaço noturno, público 55-64"
+        ],
+        [
+          "Investimento de entrada baixo",
+          1,
+          "multi-dor (mão, joelho, quadril): o molde completo é largo"
+        ],
+        [
+          "Sem dependência de autoridade",
+          1,
+          "apoia em 9.921 reviews acumulados em 5 anos"
+        ]
+      ],
+      "soma": 9,
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "estável",
+      "faturamento": {
+        "ajuste": 1,
+        "conv": 3.31,
+        "ticket": 49.03,
+        "pedidos": 9193,
+        "central": 450731,
+        "piso": 270439,
+        "teto": 631023,
+        "midia": 64004,
+        "midia_cpc": 130257
+      },
+      "confianca": "medido"
+    },
+    {
+      "slug": "stepprs",
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "MODELAR",
+      "nivel": "MÉDIO",
+      "score": [
+        [
+          "Sourcing simples",
+          1,
+          "kits de 2 itens e palmilha com grade de tamanho (M5 a M15)"
+        ],
+        [
+          "Ticket fecha sem escada complexa",
+          1,
+          "$48 o kit, desconto progressivo até 5 kits"
+        ],
+        [
+          "Criativo simples de produzir",
+          2,
+          "foto da palmilha no chão + depoimento escrito"
+        ],
+        [
+          "Mecanismo com urgência",
+          2,
+          "dor no turno de 12 horas em pé"
+        ],
+        [
+          "Investimento de entrada baixo",
+          1,
+          "1.340 ativos e rajadas de teste: método de queima em volume"
+        ],
+        [
+          "Sem dependência de autoridade",
+          2,
+          "vende no benefício funcional (\"Walk on Clouds\")"
+        ]
+      ],
+      "soma": 9,
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "estável",
+      "faturamento": {
+        "ajuste": 1,
+        "conv": 3.31,
+        "ticket": 49.03,
+        "pedidos": 7649,
+        "central": 375051,
+        "piso": 225030,
+        "teto": 525071,
+        "midia": 53257,
+        "midia_cpc": 108386
+      },
+      "confianca": "medido"
+    },
+    {
+      "slug": "orthoflexx",
+      "modelo": "DROPSHIP DE MARCA",
+      "veredito": "MODELAR",
+      "nivel": "INICIANTE",
+      "score": [
+        [
+          "Sourcing simples",
+          2,
+          "3 produtos, palmilha recortável (tamanho ajusta na tesoura)"
+        ],
+        [
+          "Ticket fecha sem escada complexa",
+          2,
+          "$64,95 avulso já banca o CPA"
+        ],
+        [
+          "Criativo simples de produzir",
+          2,
+          "1 criativo de catálogo duplicado 996 vezes"
+        ],
+        [
+          "Mecanismo com urgência",
+          2,
+          "dor no arco e no calcanhar"
+        ],
+        [
+          "Investimento de entrada baixo",
+          2,
+          "operação de 1 criativo, sem advertorial"
+        ],
+        [
+          "Sem dependência de autoridade",
+          2,
+          "vende em \"não colapsa\" e comparação de preço"
+        ]
+      ],
+      "soma": 12,
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "crescendo",
+      "faturamento": {
+        "ajuste": 1.25,
+        "conv": 4.14,
+        "ticket": 64.95,
+        "pedidos": 621,
+        "central": 40310,
+        "piso": 24186,
+        "teto": 56433,
+        "midia": 5724,
+        "midia_cpc": 7035
+      },
+      "confianca": "estimado incerto"
+    },
+    {
+      "slug": "footstr",
+      "modelo": "DROPSHIP PURO",
+      "veredito": "OBSERVAR",
+      "nivel": "INICIANTE",
+      "score": [
+        [
+          "Sourcing simples",
+          2,
+          "palmilha genérica de alinhamento"
+        ],
+        [
+          "Ticket fecha sem escada complexa",
+          1,
+          "$34,99 avulso, depende de add-ons"
+        ],
+        [
+          "Criativo simples de produzir",
+          2,
+          "vídeo e estático de mãe (\"soccer-mom\")"
+        ],
+        [
+          "Mecanismo com urgência",
+          2,
+          "medo/proteção: dor no pé do filho"
+        ],
+        [
+          "Investimento de entrada baixo",
+          2,
+          "171 ativos, operação pequena"
+        ],
+        [
+          "Sem dependência de autoridade",
+          1,
+          "usa \"Dr. Blane - Pediatric Specialist\" como persona"
+        ]
+      ],
+      "soma": 10,
+      "defensabilidade": "ARBITRAGEM",
+      "momentum": "retraindo",
+      "faturamento": {
+        "ajuste": 1.25,
+        "conv": 4.14,
+        "ticket": 49.03,
+        "pedidos": 288,
+        "central": 14133,
+        "piso": 8480,
+        "teto": 19787,
+        "midia": 2007,
+        "midia_cpc": 3268
+      },
+      "confianca": "medido"
+    }
+  ]
+}

@@ -1,0 +1,6394 @@
+{
+  "fonte": "Google suggestqueries (gl=us) + Bing osjson",
+  "coletado_em": "2026-10-06T15:22:36.004Z",
+  "sementes": [
+    "plantar fasciitis",
+    "heel pain",
+    "foot pain relief",
+    "arch support",
+    "heel spur",
+    "night splint",
+    "plantar fasciitis socks",
+    "plantar fasciitis insoles"
+  ],
+  "total": 686,
+  "termos": [
+    {
+      "termo": "plantar fasciitis socks for women",
+      "google_pos": [
+        5,
+        5,
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 4,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "heel spur vs plantar fasciitis",
+      "google_pos": [
+        4,
+        9,
+        1
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 4,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis insoles",
+      "google_pos": [
+        7,
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 3,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "best plantar fasciitis insoles",
+      "google_pos": [
+        1,
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 3,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "best plantar fasciitis socks",
+      "google_pos": [
+        5,
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 3,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis insoles for women",
+      "google_pos": [
+        9,
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 3,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis relief socks",
+      "google_pos": [
+        5,
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 3,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis insoles reviews",
+      "google_pos": [
+        7,
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 3,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "heel pain relief",
+      "google_pos": [
+        4,
+        1
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 3,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "heel spur relief",
+      "google_pos": [
+        7,
+        1
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 3,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis socks review",
+      "google_pos": [
+        7,
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 3,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "heel pain for women reason",
+      "google_pos": [
+        2,
+        2
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 3,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "heel spur treatment",
+      "google_pos": [
+        2,
+        10
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 3,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "do insoles help plantar fasciitis",
+      "google_pos": [
+        2,
+        7
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 3,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "heel spur vs plantar fasciitis symptoms",
+      "google_pos": [
+        5,
+        4
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 3,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "do plantar fasciitis socks work",
+      "google_pos": [
+        4,
+        8
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 3,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis socks",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "buy plantar fasciitis insoles",
+      "google_pos": [
+        1,
+        1
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis relief",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis relief insoles",
+      "google_pos": [
+        9,
+        1
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis vs heel spur",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "heel pain",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "best heel pain relief",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "heel pain for women",
+      "google_pos": [
+        1,
+        1
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "heel pain review",
+      "google_pos": [
+        1,
+        1
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "foot pain relief",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "best foot pain relief",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "arch support inserts",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "best arch support shoes for women",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "arch support for women",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "arch support reviews",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "heel spur",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "night splint for plantar fasciitis",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "best night splint for plantar fasciitis",
+      "google_pos": [
+        1
+      ],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 2,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis treatment",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis relief sleeve",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "heel pain causes",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "heel pain vs plantar fasciitis",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "foot pain relief cream",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "foot pain relief home remedies",
+      "google_pos": [
+        5,
+        2
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "best foot pain relief cream",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "foot pain relief shoes for women",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "arch support flip flops",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "best arch support shoes",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "heel spur relief products",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "heel spur vs bone spur",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis socks amazon",
+      "google_pos": [
+        2
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "best plantar fasciitis socks for women",
+      "google_pos": [
+        2,
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 2,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis stretches",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "best plantar fasciitis night splint",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "best plantar fasciitis insoles for men",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis relief products",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis vs stress fracture",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "heel pain when walking",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "best heel pain inserts",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "heel pain relief cream",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "foot pain relief products",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "best foot pain relief products",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "what can i use to stop my feet from hurting",
+      "google_pos": [
+        6,
+        3
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "arch support",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "best arch support insoles",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "heel spur pain",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "heel spur shoes for women",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "night splint for achilles tendonitis",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis socks costco",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "best plantar fasciitis socks for men",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis insoles for men",
+      "google_pos": [
+        3
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis insoles near me",
+      "google_pos": [
+        4,
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 2,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis symptoms",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "best plantar fasciitis treatment",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis relief reddit",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "heel pain slippers for women",
+      "google_pos": [
+        6,
+        4
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "heel pain relief exercises",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "relief for foot pain",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "arch support shoes",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "best arch support sandals for women",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "buy arch supports",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "heel spur symptoms",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "best heel spur treatment",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "best plantar fasciitis insoles for work boots",
+      "google_pos": [
+        4
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "best plantar fasciitis insoles for women",
+      "google_pos": [
+        6,
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 2,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis shoes",
+      "google_pos": [
+        5
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "plantar fasciitis vs gout",
+      "google_pos": [
+        5
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "heel pain shoes for women",
+      "google_pos": [
+        7,
+        5
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "arch support sandals",
+      "google_pos": [
+        5
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "best heel spur insoles",
+      "google_pos": [
+        5
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "heel spur vs normal heel",
+      "google_pos": [
+        5
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "best night splint for heel pain",
+      "google_pos": [
+        5
+      ],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "what is a night splint",
+      "google_pos": [
+        5
+      ],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "purpose of night splint",
+      "google_pos": [
+        5,
+        10
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "are there special socks for plantar fasciitis",
+      "google_pos": [
+        5
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 2,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "plantar fasciitis exercises",
+      "google_pos": [
+        6
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "plantar fasciitis vs tendonitis",
+      "google_pos": [
+        6
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "heel pain socks for women",
+      "google_pos": [
+        8,
+        6
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "foot pain relief spray",
+      "google_pos": [
+        6
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "arch support insoles",
+      "google_pos": [
+        6
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "heel spur exercises",
+      "google_pos": [
+        6
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "plantar fasciitis socks for sleeping",
+      "google_pos": [
+        6
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 2,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "best plantar fasciitis shoes for women",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "plantar fasciitis relief exercises",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "plantar fasciitis vs bone spur",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "heel pain treatment",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "heel pain footwear for women",
+      "google_pos": [
+        9,
+        7
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "heel pain relief patch",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "heel spur vs haglund's deformity",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "foot pain relief rubbing oil",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "best foot pain relief shoes",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "arch support shoes for women",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "night splint amazon",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "plantar fasciitis socks walmart",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "plantar fasciitis insoles walmart",
+      "google_pos": [
+        7
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 2,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "plantar fasciitis night splint",
+      "google_pos": [
+        8
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "plantar fasciitis vs neuropathy",
+      "google_pos": [
+        8
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "heel pain sandals for women",
+      "google_pos": [
+        10,
+        8
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "heel pain relief shoes",
+      "google_pos": [
+        8
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "arch support slippers",
+      "google_pos": [
+        8
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "best arch support sandals",
+      "google_pos": [
+        8
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "night splint for foot",
+      "google_pos": [
+        8
+      ],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 2,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "plantar fasciitis insoles reddit",
+      "google_pos": [
+        8
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 2,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "heel pain relief products",
+      "google_pos": [
+        9
+      ],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 2,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "plantar fasciitis insoles amazon",
+      "google_pos": [
+        9
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 2,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "plantar fasciitis relief at home",
+      "google_pos": [
+        10
+      ],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 2,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "foot pain relief socks",
+      "google_pos": [
+        10
+      ],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 2,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "arch support slippers for women",
+      "google_pos": [
+        10
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best arch supports",
+      "google_pos": [
+        10
+      ],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 2,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "heel spur vs fracture",
+      "google_pos": [
+        10
+      ],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 2,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "plantar fasciitis for women",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis reviews",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "heel pain vs heel spur",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "foot pain relief socks for women",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "foot pain relief remedies",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "foot pain relief store reviews",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "buy arch support insoles",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "arch support relief",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "arch support vs barefoot shoes",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "best heel spur inserts",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "buy night splint for plantar fasciitis",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "night splint vs night guard",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "night splint reviews",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "buy plantar fasciitis socks",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis socks vs compression socks",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "plantar fasciitis insoles and shoes",
+      "google_pos": [
+        1
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 1
+    },
+    {
+      "termo": "best plantar fasciitis shoes",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis shoes for women",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "where to buy plantar fasciitis shoes near me",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis vs achilles tendinitis",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis review article",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "best heel pain insoles",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "heel pain relief shoes for ladies",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "foot pain review",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "dr scholl's foot pain relief reviews",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "arch support for women's shoes",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "buy arch support slippers",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "arch support help plantar fasciitis",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "arch support vs insoles",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "arch aid reviews",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "best heel spur shoes",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "heel spur surgery reviews",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "night splints",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "best night splints for achilles tendonitis",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "buy night splints",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "night splint vs strassburg sock",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar night splint reviews",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis socks for women amazon",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "where to buy plantar fasciitis socks near me",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis relief sock light cushion tab",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis socks vs insoles",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "feetures plantar fasciitis socks review",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis insoles women",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "best plantar fasciitis insoles for heavy person",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis insoles for women's dress shoes",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis relief orthotics",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis insoles or socks",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis insoles reviews uk",
+      "google_pos": [
+        2
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 2
+    },
+    {
+      "termo": "plantar fasciitis slippers for women",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "what can i buy to help plantar fasciitis",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fascia review",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "heel pain for women in hindi",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "heel pain vs achilles pain",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "heel pain ointment reviews",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "foot pain relief slippers for women",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "foot pain relief compression socks reviews",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "arch support for women's dress shoes",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "buy arch support shoes",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "arch support help",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "arch support vs orthotics",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "jml arch support reviews",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "best heel spur pain relief",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "heel spur relief home remedy",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "heel spur vs plantar fasciitis pain",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "weta worldz heel spur review",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "best night splint for foot drop",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "where can i buy night splints for plantar fasciitis",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "night splint or sock",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis night splint reviews",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis socks for women nearby",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "what are plantar fasciitis socks",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis relief sock ultra light tab",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis sock vs sleeve",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "os1st plantar fasciitis socks review",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis orthotics for women",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis pain relief insoles",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis and insoles",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fascia insoles reviews",
+      "google_pos": [
+        3
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 3
+    },
+    {
+      "termo": "plantar fasciitis sandals for women",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "prescription for plantar fasciitis",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis vs flat feet",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "thermaedge plantar fasciitis reviews",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "best heel pain shoes for women",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "foot pain for women",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "heel pain inserts reviews",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "foot pain relief patches",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "best foot pain relief slippers",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "foot pain relief sandals for women",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "frankincense and myrrh foot pain relief reviews",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "arch support for women's sandals",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "arch support help shin splints",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "arch support vs zero drop",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "fulton arch support reviews",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "heel spur relief exercises",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "reviews heel spur treatment",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "night splint for carpal tunnel",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "best night splint",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "how much is a night splint",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "night guard vs splint for tmj",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "hallux valgus night splint review",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis socks for men",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "best plantar fasciitis socks reddit",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis relief sock light cushion tab 3 pack",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis socks and shoes",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "paplus plantar fasciitis socks review",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis pain relief insoles large",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis and orthotics",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "plantar fasciitis orthotics reviews",
+      "google_pos": [
+        4
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 4
+    },
+    {
+      "termo": "does soaking feet help plantar fasciitis",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "plantar fasciitis sleeve reviews",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "heel pain after running",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "best heel pain relief shoes for men",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "heel spur for women",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "heel pain relief insoles",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "heel pain a systematic review",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "best foot pain relief socks",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "foot pain for ladies",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "fast relief for sore feet",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "topricin foot pain relief cream reviews",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "best arch support inserts",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "arch support for women's flats",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "buy arch support sandals",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "arch support pain relief",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "arch support vs no arch support",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "vivaia arch support reviews",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "heel spur surgery",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "heel spur relief shoes",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "what is cure for heel spur",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "night splints for feet",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "aircast dorsal night splint review",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "best plantar fasciitis socks uk",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "plantar fasciitis compression socks for women",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "plantar fasciitis relief sock light cushion",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "plantar fasciitis and socks",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "plantar fasciitis compression socks reviews",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "plantar fasciitis insoles nearby",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "best plantar fasciitis insoles reddit",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "profoot plantar fasciitis insoles for women",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "plantar fasciitis pain relief insoles small",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "top 5 plantar fasciitis insoles",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "scholl plantar fasciitis insoles review",
+      "google_pos": [
+        5
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 5
+    },
+    {
+      "termo": "best plantar fasciitis brace for walking",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "plantar fasciitis boots for women",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "plantar fasciitis relief near me",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "vibit plantar fasciitis review",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "heel pain in the morning",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "best heel pain slippers for ladies",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "heel pain relief plantar fasciitis",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "heel spur vs achilles tendonitis",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "adelaide heel pain clinic reviews",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "best foot pain relief japan",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "what to do to help with foot pain",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "dpl foot pain relief slipper reviews",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "best arch support shoes for flat feet",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "women's boots with arch support",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "buy arch support thongs",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "arch relief insoles",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "arch support vs barefoot",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "strutz arch support reviews",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "best heel spur shoes for women",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "heel spur relief reddit",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "heel spur vs stress fracture",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "heel spur explained",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "night splints for heel pain",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "best night splint for plantar fasciitis reddit",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "should you wear a splint at night",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "night splint for achilles tendonitis reviews",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "best plantar fasciitis socks australia",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "women's plantar fasciitis socks for sleeping",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "plantar fasciitis relief sock ultra light quarter",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "os1st vs feetures plantar fasciitis socks",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "feetures plantar fasciitis socks review reddit",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "plantar fasciitis insoles for work boots",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "airplus plantar fasciitis insoles for women",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "plantar fasciitis pain relief insoles medium",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "can insoles make plantar fasciitis worse",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "rbx plantar fasciitis insoles reviews",
+      "google_pos": [
+        6
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 6
+    },
+    {
+      "termo": "plantar fasciitis footwear for women",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "best heel pain relief slippers for men",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "the heel pain expert reviews",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "what to help with foot pain",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "costco foot pain relief device reviews",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "best arch support slippers for ladies",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "arch support for womens heels",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "buy arch supports near me",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "foot relief support",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "arch support vs flat shoes",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "futuro arch support reviews",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "best heel spur relief",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "bone spur relief",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "heel spur vs plantar fasciitis reddit",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "best night splint for carpal tunnel",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "best plantar fasciitis night splint reviews",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "best plantar fasciitis socks amazon",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "women's plantar fasciitis socks for heel pain",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "plantar fasciitis relief sock light cushion quarter",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "plantar fasciitis night sock reviews",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "best plantar fasciitis insoles for running",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "plantar fasciitis insoles women nearby",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "neupu plantar fasciitis relief insoles",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "frido plantar fasciitis insoles review",
+      "google_pos": [
+        7
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 7
+    },
+    {
+      "termo": "best plantar fasciitis compression sleeve",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "plantar fasciitis trainers for women",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "plantar fasciitis relief shoes",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "profoot plantar fasciitis review",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "heel pain in kids",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "best heel pain doctor near me",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "heel spur vs normal",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "sydney heel pain clinic reviews",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "foot pain relief from standing all day",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "best foot pain relief spray",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "what can i do to stop my feet from hurting",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "aspercreme foot pain relief gel review",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "arch support for womens flat shoes",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "buy arch support for flat feet",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "arch support problems",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "arch support vs cushion",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "arch support insoles reviews",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "heel spur xray",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "best heel spur support",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "bone spur relief foot",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "heel spur vs bursitis",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "best night splints for plantar fasciitis reviews",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "medspec phantom dorsal night splint reviews",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "plantar fasciitis socks near me",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "best plantar fasciitis socks for running",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "feetures plantar fasciitis socks women",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "plantar fasciitis relief sock light cushion crew",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "os1st fs4 plantar fasciitis socks review",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "best plantar fasciitis insoles for flat feet",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "dr scholl's plantar fasciitis insoles for women",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "walkhero plantar fasciitis relief insoles",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "should plantar fasciitis insoles hurt",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "plantar fasciitis steppers insoles reviews",
+      "google_pos": [
+        8
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 8
+    },
+    {
+      "termo": "plantar fasciitis surgery",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "best plantar fasciitis sleeve",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "plantar fasciitis vs plantar fasciosis",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "koprez plantar fasciitis reviews",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "heel pain from running",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "best heel pain relief pads",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "heel spur vs normal xray",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "recoverx sleeve for heel pain reviews",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "foot pain relief near me",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "best foot pain relief machine",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "dr scholl's ball of foot pain relief review",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "arch support sandals women",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "best arch support for flat feet",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "arch support for women with flat feet",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "where to buy arch support slides",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "arch support explained",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "arch support vs memory foam",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "skechers arch support reviews",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "best heel spur exercises",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "how to help with a heel spur",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "calcaneal spur relief",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "heel spur vs plantar fasciitis treatment",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "night splint for heel spur",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "best night splint for bunions",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "how long does it take for night splint to work",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "plantar fasciitis socks do they work",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "best plantar fasciitis socks canada",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "best socks for plantar fasciitis women's amazon",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "plantar fasciitis relief sock light cushion mini crew",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "how long should i wear plantar fasciitis socks",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "plantar fasciitis night splint sock reviews",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "best plantar fasciitis insoles on amazon",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "profoot plantar fasciitis orthotic insoles for women",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "plantar fasciitis pain relief insoles scholl",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "pcssole plantar fasciitis insoles review",
+      "google_pos": [
+        9
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 9
+    },
+    {
+      "termo": "plantar fasciitis brace",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best plantar fasciitis stretches",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "plantar fasciitis sneakers for women",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "plantar fasciitis vs heel pain",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "velmore plantar fasciitis reviews",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "heel pain back of heel",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best heel pain relief slippers for women",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "heel pain relief medicine",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "heel pain and swelling",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "tenosynovitis heel pain spray review",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best foot pain relief sandals",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "sensiv pain relief foot circulator reviews",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "arch supports for flat feet",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "buy arch support flip flops",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "what is arch support good for",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "arch support vs stability",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "frido arch support review",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "heel spur causes",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best heel spur shoe inserts",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "does everyone have heel spurs",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "night splint for plantar fasciitis amazon",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best night splint for trigger finger",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "plantar fasciitis socks feetures",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best plantar fasciitis socks for sleeping",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best running socks for plantar fasciitis women's",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "plantar fasciitis relief sock light",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "feetures plantar fasciitis relief socks review",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "plantar fasciitis insoles for flat feet",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best plantar fasciitis insoles for soccer cleats",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "profoot 22102fgenxx12 plantar fasciitis orthotics for women's 6 10",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best plantar fasciitis relief insoles",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "best plantar fasciitis insoles reviews",
+      "google_pos": [
+        10
+      ],
+      "bing": false,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": 10
+    },
+    {
+      "termo": "plantar fasciitis icd 10",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis cks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis exercises pdf",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis exercises",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis inserts",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis dr near me",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis support",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis insoles uk",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis sandals for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "shoes for plantar fasciitis women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best shoes for plantar fasciitis for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis heels for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot support for plantar fasciitis for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "orthotics for plantar fasciitis for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "women's flats for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "footwear for plantar fasciitis women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis work shoes for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "women shoes for plantar fasciitis relief",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "women's shoes for plantar fasciitis uk",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "women's shoes good for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis relief cream",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis relief strips",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis relief options",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis relief shoe insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis relief & heel treatment",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis vs achilles tendonitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis vs pes planus",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis vs sever's disease",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis vs arthritis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis vs plantar fibromatosis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis vs tarsal tunnel syndrome",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis review",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis review 2025",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "koprez plantar fasciitis sleeve reviews",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain icd 10",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain exercises",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain in children",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain in one foot only",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain differential diagnosis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain causes and treatment",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best wheel paint",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best wheel paint spray",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best wheel paint for alloy wheels",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain shoes women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "causes for heel pain in women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "womens shoes for heel pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what causes heel pain in women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "reasons for heel pain in ladies",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "how to deal with heel pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "pain in your heel",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "how to help with heel pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "pain on the heel",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain in adults",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "pain on my heel",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain relief slippers for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain relief for adults",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain relief exercises at home",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain relief pads",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain relief sandals for ladies",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain relief socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain vložky",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain va disability rating",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain va",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain versus arthritis pdf",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain va rating",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain stretches",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain support",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain specialist near me cost",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel pain symptoms",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel pain",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot pain relief tips",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot pain relief store austin",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot pain relief footwear",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot pain relief store",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot pain relief exercises",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot pain relief store austin tx",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best thing for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "top of foot pain relief",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "remedy for foot pain relief",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best treatment for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what's good for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "remedy for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what helps foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what is good for feet pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "relief for feet pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best pain relief for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best relief for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot treatments for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "treatment for foot pain relief",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "relief for top of foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what helps with feet pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "help for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "remedies for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "amazon foot pain relief",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "feet pain relief products",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best pain reliever for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "how to get relief from foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot medicine for pain relief",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot pain relief home remedy",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best remedy for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "cures for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "solutions for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what to use for foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot pain relief videos",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot pain relief shoes",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "relief of foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "how to relieve foot pain",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "identifying foot pain relief",
+      "google_pos": [],
+      "bing": true,
+      "semente": "foot pain relief",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support comfort recovery shoes",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support trainers",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support sandals for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best arch support sneakers",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best arch support shoes for men",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best arch support running shoes",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best arch support flip flops for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best arch support insoles for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best arch support walking shoes for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support for women shoes",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support for women slides",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support flip flops women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "athletic shoes with arch support for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best arch supports for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch supports for women with high arches",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "amazon arch supports for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support trainers for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support footwear for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support inserts for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot arch supports for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support vans",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch supports vs insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch supports vs orthotics",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support sneakers",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "arch support shoes for men",
+      "google_pos": [],
+      "bing": true,
+      "semente": "arch support",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spur x ray",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spur icd 10",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spur in spanish",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spur surgery recovery time",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spurs symptoms and treatment",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best heel spur relief products",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spur boots for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "shoes for women with heel spurs",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best shoes for heel spurs for women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "shoes for heel spur",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "slippers for heel spurs women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what is heel spur",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "sandals for heel spurs women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spur what is it",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spur bone spur",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what's a heel spur",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "how to help a heel spur",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spur vs calcaneal spur",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel spur vs no heel spur",
+      "google_pos": [],
+      "bing": true,
+      "semente": "heel spur",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint wrist",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint cpt code",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint darco",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint ankle",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint carpal tunnel",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel night splint",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best night splints",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best night splint for achilles tendonitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best night splint for plantar fasciitis uk",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best night splint sock for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "how to use a night splint",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint for pf",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what are night splints",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint for hand",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint for feet",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint on amazon",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint for wrist",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint for finger",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "where to buy night splints",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint for df",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "splint night relief",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint soft",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint sock for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint cvs",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint sizing",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint size chart",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "night splint sock amazon",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "bite splint vs night guard",
+      "google_pos": [],
+      "bing": true,
+      "semente": "night splint",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis socks women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis socks men",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis socks uk",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis socks australia",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis socks boots",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis socks chemist warehouse",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis socks os1st",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis socks women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best socks for plantar fasciitis for men",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "feetures socks for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis foot support socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "special sock for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best sock for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "amazon plantar fasciitis socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "socks to help with plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best socks for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "orthotic socks for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis support socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "special socks for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "socks for plantar fasciitis men",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "dr heal plantar fasciitis socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "socks for plantar fasciitis women",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "compression socks help with plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis socks cvs",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "features plantar fasciitis socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "socks for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot socks for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis support socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "feetures plantar fasciitis socks",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "feetures plantar fasciitis socks reviews",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "sock for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis socks",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles uk",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles boots",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles nz",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles chemist warehouse",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles dischem",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles cvs",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles australia",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles boots chemist",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis insoles australia",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best plantar fasciitis insoles for runners",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles for women uk",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "good insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "the best insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "medical insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "foot insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "amazing insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "insoles for plantar fasciitis and flat feet",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "insoles near me for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "insoles to help plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "custom insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "shoe insoles for plantar fasciitis uk",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "the best plantar fasciitis insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "top rated insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "insoles for plantar fasciitis walmart",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis foot support insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis foot insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "recommended insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis best insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "orthopedic insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "heel insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "orthopaedic insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best insole for plantar fasciitis relief",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "shoe insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles superdrug",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis insoles scholl",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "what is plantar fasciitis insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis shoe insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis orthotic insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "hard insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "highest rated plantar fasciitis insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "plantar fasciitis support insoles",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "insoles to help with plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    },
+    {
+      "termo": "best foot insoles for plantar fasciitis",
+      "google_pos": [],
+      "bing": true,
+      "semente": "plantar fasciitis insoles",
+      "aparicoes": 1,
+      "melhor_pos": null
+    }
+  ]
+}

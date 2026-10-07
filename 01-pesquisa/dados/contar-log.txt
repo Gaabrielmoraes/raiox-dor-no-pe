@@ -1,0 +1,24 @@
+﻿Contagem — 14 termo(s) × 1 país(es)
+Escopo: país a país, somente status "active"
+Fonte: Biblioteca pública (raspagem)
+(o MCP não filtra por país; para recorte de país a raspagem é a única fonte válida)
+
+        770  US  "plantar fasciitis socks"
+       2400  US  "plantar fasciitis insoles"
+       1100  US  "plantar fasciitis sleeve"
+       6300  US  "heel pain relief"
+      19000  US  "foot pain relief"
+       4200  US  "arch support insoles"
+        520  US  "night splint plantar fasciitis"
+        210  US  "heel spur"
+        520  US  "compression socks plantar fasciitis"
+        700  US  "heel cups"
+       1000  US  "foot massage ball"
+       4300  US  "plantar fasciitis relief"
+      50000  US  "feet hurt standing all day"
+      20000  US  "arch support"
+
+Escopo: país a país, somente status "active"
+Fonte usada: Biblioteca pública (raspagem)
+arquivo: C:\Users\Gabriel\OneDrive\00 - Digital\000 - Mentoria GlobalBrand\01 - Loja Gringa\Raiox - Dor no Pe\01-pesquisa\dados\contagem-2026-10-06.json
+Lembrete: não compare estes números com os de outro escopo.

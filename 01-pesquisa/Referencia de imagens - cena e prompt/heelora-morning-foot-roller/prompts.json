@@ -1,0 +1,94 @@
+{
+  "product_handle": "heelora-morning-foot-roller",
+  "competitor": "Footstr",
+  "competitor_product_title": "Massage Roller",
+  "competitor_page": "https://getfootstr.com/products/massage-roller",
+  "competitor_json": "https://getfootstr.com/products/massage-roller.js",
+  "real_carousel_count": 5,
+  "downloaded_carousel_count": 5,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/RATED_1_BY_PARENTS_KIDS_17.png?v=1753269261",
+      "alt": null,
+      "bytes": 344000
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/19.png?v=1753270113",
+      "alt": null,
+      "bytes": 304197
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/20.png?v=1753270112",
+      "alt": null,
+      "bytes": 238128
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/21.png?v=1753270112",
+      "alt": null,
+      "bytes": 231261
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/22.png?v=1753270112",
+      "alt": null,
+      "bytes": 266939
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "Competitor carousel image 1 of 5",
+      "description": "Competitor carousel image 1 of 5, from the Footstr PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/heelora-morning-foot-roller/carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/RATED_1_BY_PARENTS_KIDS_17.png?v=1753269261",
+      "prompt": "Create one premium e-commerce PDP image for Heelora. This is image 1 of 5 in the Heelora Morning Release Foot Roller carousel (scene: \"Competitor carousel image 1 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Heelora Morning Release Foot Roller Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 5\", from Footstr). Build a premium, confident visual language for Heelora. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Heelora palette naturally: #2F4B45 as the primary brand color, #FBF7F2 as a clean neutral background, #5E8C6A as a controlled accent (CTAs, highlights), #D9825B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Heelora Morning Release Foot Roller silhouette, materials, hardware, seams, colors and proportions shown in the separate Heelora Morning Release Foot Roller Product Master photographs. Show Roll it under your arch before you stand up and wake your foot gently.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Heelora identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "Competitor carousel image 2 of 5",
+      "description": "Competitor carousel image 2 of 5, from the Footstr PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/heelora-morning-foot-roller/carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/19.png?v=1753270113",
+      "prompt": "Create one premium e-commerce PDP image for Heelora. This is image 2 of 5 in the Heelora Morning Release Foot Roller carousel (scene: \"Competitor carousel image 2 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Heelora Morning Release Foot Roller Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 5\", from Footstr). Build a premium, confident visual language for Heelora. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Heelora palette naturally: #2F4B45 as the primary brand color, #FBF7F2 as a clean neutral background, #5E8C6A as a controlled accent (CTAs, highlights), #D9825B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Heelora Morning Release Foot Roller silhouette, materials, hardware, seams, colors and proportions shown in the separate Heelora Morning Release Foot Roller Product Master photographs. Show Roll it under your arch before you stand up and wake your foot gently.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Heelora identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "Competitor carousel image 3 of 5",
+      "description": "Competitor carousel image 3 of 5, from the Footstr PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/heelora-morning-foot-roller/carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/20.png?v=1753270112",
+      "prompt": "Create one premium e-commerce PDP image for Heelora. This is image 3 of 5 in the Heelora Morning Release Foot Roller carousel (scene: \"Competitor carousel image 3 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Heelora Morning Release Foot Roller Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 5\", from Footstr). Build a premium, confident visual language for Heelora. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Heelora palette naturally: #2F4B45 as the primary brand color, #FBF7F2 as a clean neutral background, #5E8C6A as a controlled accent (CTAs, highlights), #D9825B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Heelora Morning Release Foot Roller silhouette, materials, hardware, seams, colors and proportions shown in the separate Heelora Morning Release Foot Roller Product Master photographs. Show Roll it under your arch before you stand up and wake your foot gently.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Heelora identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "Competitor carousel image 4 of 5",
+      "description": "Competitor carousel image 4 of 5, from the Footstr PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/heelora-morning-foot-roller/carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/21.png?v=1753270112",
+      "prompt": "Create one premium e-commerce PDP image for Heelora. This is image 4 of 5 in the Heelora Morning Release Foot Roller carousel (scene: \"Competitor carousel image 4 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Heelora Morning Release Foot Roller Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 5\", from Footstr). Build a premium, confident visual language for Heelora. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Heelora palette naturally: #2F4B45 as the primary brand color, #FBF7F2 as a clean neutral background, #5E8C6A as a controlled accent (CTAs, highlights), #D9825B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Heelora Morning Release Foot Roller silhouette, materials, hardware, seams, colors and proportions shown in the separate Heelora Morning Release Foot Roller Product Master photographs. Show Roll it under your arch before you stand up and wake your foot gently.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Heelora identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 5,
+      "type": "Competitor carousel image 5 of 5",
+      "description": "Competitor carousel image 5 of 5, from the Footstr PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/heelora-morning-foot-roller/carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/22.png?v=1753270112",
+      "prompt": "Create one premium e-commerce PDP image for Heelora. This is image 5 of 5 in the Heelora Morning Release Foot Roller carousel (scene: \"Competitor carousel image 5 of 5\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Heelora Morning Release Foot Roller Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 5\", from Footstr). Build a premium, confident visual language for Heelora. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Heelora palette naturally: #2F4B45 as the primary brand color, #FBF7F2 as a clean neutral background, #5E8C6A as a controlled accent (CTAs, highlights), #D9825B only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Heelora Morning Release Foot Roller silhouette, materials, hardware, seams, colors and proportions shown in the separate Heelora Morning Release Foot Roller Product Master photographs. Show Roll it under your arch before you stand up and wake your foot gently.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Heelora identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+  ]
+}

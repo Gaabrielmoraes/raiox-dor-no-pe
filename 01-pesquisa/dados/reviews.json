@@ -1,0 +1,154 @@
+{
+ "koprez.com": {
+  "dominio": "koprez.com",
+  "produtos": [
+   {
+    "handle": "knee-compression-sleeve",
+    "reviewCount": 0,
+    "ratingValue": null,
+    "fonte": "json-ld solto"
+   },
+   {
+    "handle": "knee-sleeve",
+    "reviewCount": 0,
+    "ratingValue": null,
+    "fonte": "json-ld solto"
+   },
+   {
+    "handle": "foot-sleeve",
+    "reviewCount": 0,
+    "ratingValue": null,
+    "fonte": "json-ld solto"
+   },
+   {
+    "handle": "foot-sleeve-pair",
+    "reviewCount": 0,
+    "ratingValue": null,
+    "fonte": "json-ld solto"
+   },
+   {
+    "handle": "wrist-brace",
+    "reviewCount": 0,
+    "ratingValue": null,
+    "fonte": "json-ld solto"
+   }
+  ],
+  "declarado_home": null,
+  "apps_review": [
+   "loox"
+  ]
+ },
+ "onecompress.com": {
+  "dominio": "onecompress.com",
+  "produtos": [
+   {
+    "handle": "bambookneesleeve",
+    "reviewCount": 31116,
+    "ratingValue": "4.8",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "bamboofootsleeves",
+    "reviewCount": 9921,
+    "ratingValue": "4.7",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "bamboolegsleeve",
+    "reviewCount": 2258,
+    "ratingValue": "4.7",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "onecompressgloves",
+    "reviewCount": 11588,
+    "ratingValue": "4.7",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "bamboolitesocks",
+    "reviewCount": 7,
+    "ratingValue": "4.6",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "nervelotion",
+    "reviewCount": 85,
+    "ratingValue": "4.7",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "balancecushionsocks3pack",
+    "reviewCount": 526,
+    "ratingValue": "4.7",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "bambooanklesleeve",
+    "reviewCount": 1617,
+    "ratingValue": "4.7",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "bamboocompressionsocks",
+    "reviewCount": 3009,
+    "ratingValue": "4.8",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "bambooelbow",
+    "reviewCount": 671,
+    "ratingValue": "4.8",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "bamboocalfsleeve",
+    "reviewCount": 1332,
+    "ratingValue": "4.9",
+    "fonte": "schema.org"
+   },
+   {
+    "handle": "bamboowrist",
+    "reviewCount": 690,
+    "ratingValue": "4.8",
+    "fonte": "schema.org"
+   }
+  ],
+  "declarado_home": 31116,
+  "apps_review": [
+   "loox",
+   "yotpo"
+  ],
+  "pedidos_estimados": {
+   "base_reviews": 62820,
+   "fonte_base": "soma de 12 produtos amostrados (piso, nao total)",
+   "a_3pct": 2094000,
+   "a_1pct": 6282000
+  },
+  "alerta_home": "A home declara 31116 reviews. Numero de marketing, NAO usado para derivar pedidos. Cruze com a idade do dominio antes de acreditar."
+ },
+ "stepprs.com": {
+  "dominio": "stepprs.com",
+  "produtos": [],
+  "declarado_home": null,
+  "apps_review": [
+   "judge.me"
+  ]
+ },
+ "orthoflexx.com": {
+  "dominio": "orthoflexx.com",
+  "produtos": [],
+  "declarado_home": 1200,
+  "apps_review": [],
+  "alerta_home": "A home declara 1200 reviews. Numero de marketing, NAO usado para derivar pedidos. Cruze com a idade do dominio antes de acreditar."
+ },
+ "getfootstr.com": {
+  "dominio": "getfootstr.com",
+  "produtos": [],
+  "declarado_home": 1208,
+  "apps_review": [
+   "judge.me"
+  ],
+  "alerta_home": "A home declara 1208 reviews. Numero de marketing, NAO usado para derivar pedidos. Cruze com a idade do dominio antes de acreditar."
+ }
+}

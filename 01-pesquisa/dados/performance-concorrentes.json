@@ -1,0 +1,126 @@
+{
+  "medido_em": "2026-10-07T00:31:23.825Z",
+  "metodo": "Playwright headless, 1280x800, 1 carga por página, conexão doméstica",
+  "paginas": [
+    {
+      "slug": "koprez",
+      "nome": "Koprez",
+      "pagina": "home",
+      "dcl_ms": 10458,
+      "load_ms": 10827,
+      "recursos": 344,
+      "kb": 3695,
+      "scripts": 104,
+      "imagens": 53,
+      "falhas": 44
+    },
+    {
+      "slug": "koprez",
+      "nome": "Koprez",
+      "pagina": "pdp",
+      "dcl_ms": 7797,
+      "load_ms": 10363,
+      "recursos": 850,
+      "kb": 4532,
+      "scripts": 114,
+      "imagens": 49,
+      "falhas": 42
+    },
+    {
+      "slug": "onecompress",
+      "nome": "One Compress",
+      "pagina": "home",
+      "dcl_ms": 2001,
+      "load_ms": 6003,
+      "recursos": 322,
+      "kb": 4679,
+      "scripts": 101,
+      "imagens": 49,
+      "falhas": 38
+    },
+    {
+      "slug": "onecompress",
+      "nome": "One Compress",
+      "pagina": "pdp",
+      "dcl_ms": 7309,
+      "load_ms": 9017,
+      "recursos": 413,
+      "kb": 3082,
+      "scripts": 106,
+      "imagens": 66,
+      "falhas": 57
+    },
+    {
+      "slug": "stepprs",
+      "nome": "Stepprs",
+      "pagina": "home",
+      "dcl_ms": 1986,
+      "load_ms": 9436,
+      "recursos": 354,
+      "kb": 9892,
+      "scripts": 100,
+      "imagens": 46,
+      "falhas": 57
+    },
+    {
+      "slug": "stepprs",
+      "nome": "Stepprs",
+      "pagina": "pdp",
+      "dcl_ms": 3099,
+      "load_ms": 12593,
+      "recursos": 375,
+      "kb": 10151,
+      "scripts": 122,
+      "imagens": 46,
+      "falhas": 62
+    },
+    {
+      "slug": "orthoflexx",
+      "nome": "OrthoFlexx",
+      "pagina": "home",
+      "dcl_ms": 2395,
+      "load_ms": 6859,
+      "recursos": 328,
+      "kb": 2264,
+      "scripts": 107,
+      "imagens": 17,
+      "falhas": 32
+    },
+    {
+      "slug": "orthoflexx",
+      "nome": "OrthoFlexx",
+      "pagina": "pdp",
+      "dcl_ms": 4415,
+      "load_ms": 8733,
+      "recursos": 339,
+      "kb": 4811,
+      "scripts": 127,
+      "imagens": 49,
+      "falhas": 51
+    },
+    {
+      "slug": "heelora",
+      "nome": "Heelora (mockup)",
+      "pagina": "home",
+      "dcl_ms": 20,
+      "load_ms": 179,
+      "recursos": 0,
+      "kb": 0,
+      "scripts": 0,
+      "imagens": 0,
+      "falhas": 0
+    },
+    {
+      "slug": "heelora",
+      "nome": "Heelora (mockup)",
+      "pagina": "pdp",
+      "dcl_ms": 17,
+      "load_ms": 201,
+      "recursos": 0,
+      "kb": 0,
+      "scripts": 0,
+      "imagens": 0,
+      "falhas": 1
+    }
+  ]
+}

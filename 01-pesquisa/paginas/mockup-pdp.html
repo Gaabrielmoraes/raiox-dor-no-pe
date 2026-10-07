@@ -1,0 +1,82 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Heelora · Night & Day Compression Sleeves (mockup)</title><style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;background:#FBF7F2;color:#1F2523;line-height:1.55;font-size:16px}
+h1,h2,h3{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;line-height:1.15}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+.ann{background:#2F4B45;color:#FBF7F2;text-align:center;font-size:13px;padding:9px 12px;letter-spacing:.02em}
+.hdr{display:flex;align-items:center;justify-content:space-between;padding:16px 24px;border-bottom:1px solid #E4D9CC;background:#FBF7F2}
+.logo{font-family:"Cormorant Garamond",Georgia,serif;font-size:28px;color:#2F4B45;letter-spacing:.04em}
+.nav{display:flex;gap:22px;font-size:14px}.cart{font-size:14px;border:1px solid #E4D9CC;padding:6px 12px;border-radius:20px}
+.btn{display:inline-block;background:#2F4B45;color:#FBF7F2;padding:15px 28px;border-radius:30px;font-weight:600;text-decoration:none;font-size:16px;text-align:center}
+.btn.alt{background:#D9825B}
+.ph{position:relative;background:#F1E8DD;border:1px dashed #cbb9a5;border-radius:14px;overflow:hidden;display:flex;align-items:center;justify-content:center;color:#8a7a6a;font-size:13px;text-align:center}
+.ph img{width:100%;height:100%;object-fit:cover;opacity:.92}
+.ph .tag{position:absolute;left:10px;top:10px;background:rgba(31,37,35,.82);color:#fff;font-size:11px;padding:4px 8px;border-radius:6px;max-width:85%;text-align:left}
+.hero{display:grid;grid-template-columns:1.05fr 1fr;gap:40px;align-items:center;padding:56px 24px}
+.hero h1{font-size:54px;color:#2F4B45}
+.hero p{font-size:19px;margin:18px 0 26px;max-width:520px}
+.stars{color:#D9825B;font-size:14px;margin-top:14px}
+.sec{padding:56px 24px}.sec h2{font-size:38px;color:#2F4B45;text-align:center;margin-bottom:10px}
+.sub{text-align:center;max-width:640px;margin:0 auto 32px;color:#4a4f4c}
+.offer{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;max-width:760px;margin:0 auto}
+.card{background:#fff;border:1px solid #E4D9CC;border-radius:16px;padding:24px}
+.card.best{border:2px solid #D9825B}
+.badge{display:inline-block;background:#D9825B;color:#fff;font-size:12px;padding:3px 10px;border-radius:12px;margin-bottom:8px}
+.price{font-size:30px;font-weight:700;color:#2F4B45}.price s{font-size:16px;color:#8a8f8c;font-weight:400;margin-left:8px}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.step b{display:block;font-family:"Cormorant Garamond",Georgia,serif;font-size:24px;color:#2F4B45;margin:10px 0 4px}
+.vs{display:grid;grid-template-columns:1fr 1fr;gap:20px;max-width:860px;margin:0 auto}
+.vs .card h3{font-size:24px;margin-bottom:10px}.vs ul{padding-left:18px}.vs li{margin:6px 0}
+.trust{display:flex;justify-content:center;gap:34px;flex-wrap:wrap;background:#F1E8DD;padding:22px;font-size:14px}
+.faq{max-width:760px;margin:0 auto}.faq details{border-bottom:1px solid #E4D9CC;padding:16px 0}.faq summary{font-weight:600;cursor:pointer}
+.ft{background:#1F2523;color:#d9d4cc;padding:36px 24px;font-size:13px}
+/* PDP */
+.pdp{display:grid;grid-template-columns:1.1fr 1fr;gap:40px;padding:36px 24px}
+.gal{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.gal .ph.main{grid-column:1/4;aspect-ratio:1/1}.gal .ph{aspect-ratio:1/1}
+.buy h1{font-size:40px;color:#2F4B45}.eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:12px;color:#D9825B;font-weight:600}
+.lede{font-size:18px;margin:12px 0}
+.qty{display:grid;gap:12px;margin:18px 0}
+.opt{display:flex;justify-content:space-between;align-items:center;border:1px solid #E4D9CC;background:#fff;border-radius:12px;padding:14px 16px}
+.opt.on{border:2px solid #2F4B45}
+.size{display:flex;gap:10px;margin:8px 0 18px}.size span{border:1px solid #E4D9CC;padding:9px 16px;border-radius:20px;background:#fff;font-size:14px}.size .on{border:2px solid #2F4B45}
+.bump{display:flex;gap:12px;align-items:center;background:#F1E8DD;border:1px dashed #D9825B;border-radius:12px;padding:12px 14px;margin:14px 0;font-size:14px}
+.bump .ph{width:64px;height:64px;flex:none}
+.guar{display:flex;gap:10px;align-items:center;font-size:14px;margin-top:14px;color:#2F4B45}
+.ul2{padding-left:18px}.ul2 li{margin:7px 0}
+.cta-flow{display:block;width:100%;margin-top:16px}
+@media (max-width:760px){
+ .hero,.pdp,.steps,.vs,.offer{grid-template-columns:1fr}
+ .hero{padding:28px 18px;gap:22px}.hero h1{font-size:38px}.hero p{font-size:17px}
+ .sec{padding:40px 18px}.sec h2{font-size:30px}.nav{display:none}
+ .buy h1{font-size:32px}.pdp{padding:18px;gap:22px}
+ .btn{display:block;width:100%}
+}</style></head><body><!-- BLOCO NOVO: announcement-bar -->
+<div class="ann">Free US shipping on every order · 60-day "walk-it-off" guarantee</div>
+<header class="hdr"><div class="logo">Heelora</div><nav class="nav"><a>Heel &amp; Arch Relief</a><a>Recovery Tools</a><a>Our Guarantee</a></nav><span class="cart">Cart (0)</span></header>
+<section class="pdp wrap">
+<!-- BLOCO: galeria -->
+<div class="gal"><div class="ph main"><img src="../Referencia%20de%20imagens%20-%20cena%20e%20prompt/heelora-night-day-compression-sleeves/carrossel-concorrente/referencia-01.jpg" alt=""><div class="tag">PLACEHOLDER temporário (concorrente) · IMAGEM 1 · still do par de luvas sobre linho (posição 1 da sequência)</div></div><div class="ph"><img src="../Referencia%20de%20imagens%20-%20cena%20e%20prompt/heelora-night-day-compression-sleeves/carrossel-concorrente/referencia-03.jpg" alt=""><div class="tag">PLACEHOLDER temporário (concorrente) · IMAGEM 2 · uso noturno, beira da cama</div></div><div class="ph"><img src="../Referencia%20de%20imagens%20-%20cena%20e%20prompt/heelora-night-day-compression-sleeves/carrossel-concorrente/referencia-05.webp" alt=""><div class="tag">PLACEHOLDER temporário (concorrente) · IMAGEM 3 · mãos calçando pelo calcanhar</div></div><div class="ph"><img src="../Referencia%20de%20imagens%20-%20cena%20e%20prompt/heelora-night-day-compression-sleeves/carrossel-concorrente/referencia-06.webp" alt=""><div class="tag">PLACEHOLDER temporário (concorrente) · IMAGEM 4 · em pé no trabalho, scrub azul</div></div></div>
+<div class="buy">
+<!-- BLOCO: prova-social -->
+<div class="stars">New: be one of our first reviewers</div>
+<!-- BLOCO: lede -->
+<span class="eyebrow">For plantar fasciitis &amp; morning heel pain</span><h1>Heelora Night &amp; Day Compression Sleeves</h1><p class="lede">Wear them through your shift, sleep in them at night, and take your first steps tomorrow without bracing for that stab in your heel.</p>
+<!-- BLOCO: preco-ancora -->
+<div class="qty"><div class="opt"><span><b>1 pair</b><br><small>Try it</small></span><span class="price">$34.95<s>$59.95</s></span></div><div class="opt on"><span><span class="badge">Most popular</span><br><b>2 pairs</b> · one for work, one for bed</span><span class="price">$49.95<s>$119.90</s></span></div></div><b style="font-size:14px">Size</b><div class="size"><span class="on">S/M (W 5-9 · M 4-8)</span><span>L/XL (W 9.5-13 · M 8.5-12)</span></div>
+<!-- BLOCO: order-bump -->
+<label class="bump"><input type="checkbox" checked> <span class="ph"><img src="../Referencia%20de%20imagens%20-%20cena%20e%20prompt/heelora-morning-foot-roller/carrossel-concorrente/referencia-01.png" alt=""></span><span><b>Add the Morning Release Foot Roller for $9.95</b> <s>$19.95</s><br>2 minutes before your first step.</span></label><a class="btn cta-flow" href="#">Add to cart · $59.90</a>
+<!-- BLOCO: faixa-confianca -->
+<div class="guar">✓ 60-day "walk-it-off" guarantee &nbsp; ✓ Free US shipping &nbsp; ✓ Free size exchange</div>
+<!-- BLOCO: bullets-objecao -->
+<ul class="ul2" style="margin-top:18px"><li><b>Not a compression sock:</b> open toe, no squeeze, no marks.</li><li><b>Soft enough to sleep in</b>, thin enough for work shoes.</li><li><b>Arch and heel support</b> right where the morning pain starts.</li><li><b>Two sizes,</b> free exchange if you pick wrong.</li></ul></div></section>
+<!-- BLOCO: editorial-beat -->
+<section class="sec" style="background:#F1E8DD"><h2>Why mornings hurt the most</h2><p class="sub">While you sleep, your foot rests pointed down and the tissue under your arch tightens. The first step stretches it all at once. Wearing a gentle sleeve at night keeps your arch supported, so the morning feels softer. Comfort, not a cure: if the pain stays, see your doctor.</p></section>
+<!-- BLOCO: upsell -->
+<section class="sec"><h2>Complete your routine</h2><div class="offer"><div class="card"><div class="ph" style="aspect-ratio:1/1"><img src="../Referencia%20de%20imagens%20-%20cena%20e%20prompt/heelora-gel-heel-cups/carrossel-concorrente/referencia-01.webp" alt=""><div class="tag">PLACEHOLDER temporário · copinho de gel</div></div><b>Gel Heel Cups</b><div class="price">$14.95<s>$24.95</s></div></div><div class="card"><div class="ph" style="aspect-ratio:1/1"><img src="../Referencia%20de%20imagens%20-%20cena%20e%20prompt/heelora-arch-support-insoles/carrossel-concorrente/referencia-01.webp" alt=""><div class="tag">PLACEHOLDER temporário · palmilha (fase 2)</div></div><b>Firm Arch Support Insoles</b><div class="price">$29.95<s>$49.95</s></div></div></div></section>
+<!-- BLOCO: reviews -->
+<section class="sec" style="background:#F1E8DD"><h2>Reviews</h2><p class="sub">Only real Heelora customer reviews will appear here (IMAGENS 9 a 11 reservadas pra fotos de review reais).</p></section>
+<!-- BLOCO: faq -->
+<section class="sec"><h2>Questions</h2><div class="faq"><details open><summary>Can I sleep in them?</summary><p>Yes, that is what they are made for.</p></details><details><summary>How long until I feel a difference?</summary><p>Many people notice their mornings within the first weeks. You have 60 days to decide.</p></details><details><summary>When will my order arrive?</summary><p>Processing 1 to 2 business days, delivery 5 to 9 business days in the US, with tracking.</p></details></div></section>
+<!-- BLOCO: sticky-mobile (em fluxo, nunca fixo) -->
+<section class="sec" style="text-align:center;padding-top:0"><a class="btn" href="#">Get 2 pairs for $49.95</a></section><footer class="ft"><div class="wrap">Heelora · Comfort for people who stand all day · support@heelora.com<br>Shipping · 60-Day Guarantee · Privacy · Terms<br><small>Heelora products are comfort accessories, not medical devices.</small></div></footer></body></html>

@@ -1,0 +1,57 @@
+﻿
+== koprez.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 3 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+
+== koprez.com | tentativa 2/5
+   bloqueado pelo CloudFront. aguardando 4 min...
+
+== onecompress.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 3 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+
+== koprez.com | tentativa 3/5
+
+== onecompress.com | tentativa 2/5
+   bloqueado pelo CloudFront. aguardando 4 min...
+
+== stepprs.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 5 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+   bloqueado pelo CloudFront. aguardando 3 min...
+
+== onecompress.com | tentativa 3/5
+   bloqueado pelo CloudFront. aguardando 5 min...
+
+== stepprs.com | tentativa 2/5
+
+== orthoflexx.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 4 min...
+   bloqueado pelo CloudFront. aguardando 3 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+
+== orthoflexx.com | tentativa 2/5
+   bloqueado pelo CloudFront. aguardando 4 min...
+
+== stepprs.com | tentativa 3/5
+   bloqueado pelo CloudFront. aguardando 5 min...
+
+== getfootstr.com | tentativa 1/5
+   bloqueado pelo CloudFront. aguardando 3 min...
+   -> NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio) | visitas: - | rank: - | bounce: -
+
+== orthoflexx.com | tentativa 3/5
+   bloqueado pelo CloudFront. aguardando 5 min...
+
+== getfootstr.com | tentativa 2/5
+   bloqueado pelo CloudFront. aguardando 4 min...
+
+=== RESUMO ===
+koprez.com                 -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+onecompress.com            -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+stepprs.com                -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+orthoflexx.com             -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+getfootstr.com             -         NAO OBTIDO: timeout de 90s neste dominio, seguindo pro proximo (declarar lacuna no relatorio)
+
+== getfootstr.com | tentativa 3/5
+   bloqueado pelo CloudFront. aguardando 5 min...

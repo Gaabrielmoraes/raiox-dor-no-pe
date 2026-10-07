@@ -1,0 +1,1466 @@
+{
+  "koprez.com": {
+    "dominio": "koprez.com",
+    "coletado_em": "2026-10-06T18:01:34",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "afterpay",
+        "bold",
+        "gempages",
+        "gtag",
+        "gtm",
+        "klaviyo",
+        "loox",
+        "pinterest",
+        "postscript",
+        "snap",
+        "triplewhale",
+        "upcart",
+        "vitals"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://facebook.com/koprezshop",
+        "https://instagram.com/koprezofficial"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 46,
+      "n_variantes": 789,
+      "preco_min": 3.99,
+      "preco_mediana": 69.98,
+      "preco_max": 149.94,
+      "primeiro_produto": "2022-05-24",
+      "ultimo_produto": "2026-09-02",
+      "vendors": [
+        "Koprez®"
+      ],
+      "tipos": [
+        "",
+        "Ankle",
+        "UpCart - Shipping Protection",
+        "Knee",
+        "Knee_pair",
+        "ankle_pair",
+        "wrist"
+      ],
+      "produtos": [
+        {
+          "titulo": "Koprez® Plantar Complex Supplement",
+          "handle": "foot-complex-supplement",
+          "preco": 59.99,
+          "publicado": "2026-09-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/1_cdb8c143-2b80-4af6-9797-d302d3281e79.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "12x Foot Sleeves",
+          "handle": "12x-foot-sleeves",
+          "preco": 149.94,
+          "publicado": "2026-07-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Bundle-for-revision-_4.jpg",
+          "tipo": "Ankle"
+        },
+        {
+          "titulo": "Pain Patch (24 pack)",
+          "handle": "pain-patch-24-pack",
+          "preco": 29.99,
+          "publicado": "2026-07-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/KP-60Meta2-_1_2.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Shipping Protection",
+          "handle": "2-year-warranty",
+          "preco": 3.99,
+          "publicado": "2026-07-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/products/shipping-protection-v2_1.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Test foot sleeve",
+          "handle": "test-foot-sleeve",
+          "preco": 39.99,
+          "publicado": "2026-03-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10005.jpg",
+          "tipo": "Ankle"
+        },
+        {
+          "titulo": "8x Foot Sleeves",
+          "handle": "8x-foot-sleeves",
+          "preco": 119.99,
+          "publicado": "2026-02-27",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Koprez-8x-foot-sleeve.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Koprez® Custom Insoles (Buy Two Get One Free)",
+          "handle": "buy-two-get-one-free",
+          "preco": 99.99,
+          "publicado": "2025-09-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/5_2.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Koprez® Custom Insoles",
+          "handle": "customfit-insoles-sk",
+          "preco": 79.99,
+          "publicado": "2025-09-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Koprez-insole.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Perfect Fit Guarantee",
+          "handle": "perfect-fit-guarantee-1",
+          "preco": 9.99,
+          "publicado": "2025-09-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/shipping-protection-v2.png",
+          "tipo": "UpCart - Shipping Protection"
+        },
+        {
+          "titulo": "Koprez® Custom Insoles",
+          "handle": "insoles",
+          "preco": 79.99,
+          "publicado": "2025-09-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/INSOLE-MAIN-IMAGE-130kb_77a4a790-9acc-4999-a6a9-65ce3912609d.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Perfect Fit Guarantee",
+          "handle": "perfect-fit-guarantee",
+          "preco": 9.99,
+          "publicado": "2025-09-03",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/image_11.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Foot Support & Comfort (eBook)",
+          "handle": "mobility-made-simple-ebook",
+          "preco": 19.99,
+          "publicado": "2025-09-03",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Ebook_3.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Koprez® $15 Gift Card + Shipping Priority + Lost Protection",
+          "handle": "gift-card",
+          "preco": 15,
+          "publicado": "2025-06-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Koprezgiftcard.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Koprez® Foot Sleeve",
+          "handle": "foot-sleeve",
+          "preco": 39.99,
+          "publicado": "2025-06-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10005.jpg",
+          "tipo": "Ankle"
+        },
+        {
+          "titulo": "Pain Patch (60 pack)",
+          "handle": "pain-patch-60-pack",
+          "preco": 29.99,
+          "publicado": "2024-10-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Koprez-Pain-Patch-Main-Image-Meta.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Koprez® Back CryoPump",
+          "handle": "cryopump-back",
+          "preco": 99.99,
+          "publicado": "2024-08-06",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/BC4_1791daa5-958b-4310-a842-6b0174e79d68.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Koprez® Foot CryoPump",
+          "handle": "cryopump-foot",
+          "preco": 79.99,
+          "publicado": "2024-08-06",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/FC4_0daf80bb-b04c-410d-8144-bbfde616d36b.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Koprez® Knee CryoPump",
+          "handle": "cryopump-knee",
+          "preco": 99.99,
+          "publicado": "2024-08-06",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Cryo3.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Porch Pirate Protection",
+          "handle": "porch",
+          "preco": 4.95,
+          "publicado": "2024-06-07",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Porch.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "6x Knee Sleeve",
+          "handle": "6x-knee-compression-sleeve-1",
+          "preco": 149.94,
+          "publicado": "2024-04-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/x6.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "6x Foot Sleeves",
+          "handle": "6x-foot-sleeves",
+          "preco": 149.94,
+          "publicado": "2024-03-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Koprez-6x.jpg",
+          "tipo": "Ankle"
+        },
+        {
+          "titulo": "Koprez® Knee Sleeve",
+          "handle": "compression-sleeve-knee-st",
+          "preco": 39.99,
+          "publicado": "2023-09-27",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Best-Seller.jpg",
+          "tipo": "Knee"
+        },
+        {
+          "titulo": "Koprez® Foot Sleeve",
+          "handle": "koprez®-foot-sleeve-1",
+          "preco": 39.99,
+          "publicado": "2023-06-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10005.jpg",
+          "tipo": "Ankle"
+        },
+        {
+          "titulo": "Koprez® Foot Sleeve",
+          "handle": "koprez®-foot-sleeve",
+          "preco": 39.99,
+          "publicado": "2023-06-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10005.jpg",
+          "tipo": "Ankle"
+        },
+        {
+          "titulo": "Pain Patch (12 pack)",
+          "handle": "pain-patch",
+          "preco": 19.99,
+          "publicado": "2023-01-06",
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/KP-60Meta2-_1_2.jpg",
+          "tipo": ""
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "colecao": "best-sellers",
+      "produtos": [
+        {
+          "titulo": "Koprez® Knee Sleeve",
+          "handle": "knee-compression-sleeve",
+          "preco": 39.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Best-Seller.jpg"
+        },
+        {
+          "titulo": "Koprez® Knee Sleeves (Pair)",
+          "handle": "knee-sleeve",
+          "preco": 79.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/z4_e8ef550d-712b-494d-ab10-27f5e30df9c0.jpg"
+        },
+        {
+          "titulo": "Koprez® Foot Sleeve",
+          "handle": "foot-sleeve",
+          "preco": 39.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10005.jpg"
+        },
+        {
+          "titulo": "Koprez® Foot Sleeves (Pair)",
+          "handle": "foot-sleeve-pair",
+          "preco": 79.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/YSPFB2.jpg"
+        },
+        {
+          "titulo": "Koprez® Wrist Brace",
+          "handle": "wrist-brace",
+          "preco": 39.99,
+          "imagem": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Wrist_480x480_872cc6fb-f5bd-4b30-9b73-3dfdcc6d84a8.jpg"
+        }
+      ]
+    },
+    "wayback": {
+      "primeira_captura": null,
+      "dias_arquivados": 0,
+      "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+    },
+    "tranco": {
+      "rank_atual": 367336,
+      "rank_antigo": 428291,
+      "dias": 36,
+      "variacao": 60955,
+      "tendencia": "subindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 5,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "koprezofficial": {
+        "seguidores": "32K",
+        "posts": "49",
+        "raw": "32K Followers, 211 Following, 49 Posts - See Instagram photos and videos from Koprez&#xae; | Premium Compression Sleeves (&#064;koprezofficial)"
+      }
+    },
+    "trafego": {
+      "fonte": "SimilarWeb (página pública, via WebFetch; trafego.js bloqueado por CloudFront)",
+      "snapshot": "2026-09",
+      "visitas_mes": null,
+      "visitas_nota": "total não exibido na página pública (atrás de cadastro); triangulado pelo rank vizinho",
+      "rank_global": 59073,
+      "rank_pais": 13053,
+      "bounce": 66.83,
+      "paginas_visita": 2.15,
+      "variacao_mes": 9.36,
+      "share_us": 82.34,
+      "canais": "Social pago 24,08% (1º), direto (2º), display (3º)"
+    },
+    "midia": {
+      "ativos": 912,
+      "historico": 4045,
+      "page_ids": [
+        "104789644587334",
+        "1301521129705613",
+        "1210064278866234",
+        "1336164929572118"
+      ],
+      "snapshot_em": "2026-10-06"
+    }
+  },
+  "onecompress.com": {
+    "dominio": "onecompress.com",
+    "coletado_em": "2026-10-06T18:02:17",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "gempages",
+        "gtag",
+        "gtm",
+        "klarna",
+        "klaviyo",
+        "loox",
+        "pinterest",
+        "shoppay",
+        "upcart",
+        "yotpo"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://www.facebook.com/onecompress",
+        "https://www.instagram.com/onecompress",
+        "https://www.pinterest.com/onecompress",
+        "https://www.youtube.com/@onecompress"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 26,
+      "n_variantes": 219,
+      "preco_min": 2.99,
+      "preco_mediana": 49,
+      "preco_max": 99,
+      "primeiro_produto": "2021-03-31",
+      "ultimo_produto": "2026-09-06",
+      "vendors": [
+        "Onecompress",
+        "OneCompress",
+        "Thinkific"
+      ],
+      "tipos": [
+        "",
+        "free_gift",
+        "Course"
+      ],
+      "produtos": [
+        {
+          "titulo": "BambooLITE™ Lightweight Compression Socks",
+          "handle": "bamboolitesocks",
+          "preco": 54,
+          "publicado": "2026-09-06",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC39-LP1-IMG6_min.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "BALANCE+ Cushion Compression Crew Socks",
+          "handle": "oc33-white-1-pair-placeholder",
+          "preco": 39,
+          "publicado": "2026-07-23",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/BALANCEsocks_Web_IMG51_min.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Onerelief™ Nerve Lotion",
+          "handle": "nervelotion",
+          "preco": 35,
+          "publicado": "2026-07-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC38_Initial_IMG2.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "BALANCE+ Cushion Compression Low Socks",
+          "handle": "balancecushionlowsocks",
+          "preco": 39,
+          "publicado": "2026-06-18",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/BALANCEsocks_Web_IMG53_min_9a7bc460-b040-4dd9-aad2-7e2da7c8a040.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "OneRelief™ Pain Gel",
+          "handle": "onerelief-gel",
+          "preco": 30,
+          "publicado": "2026-06-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC30-LP1-IMG1-min.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "BALANCE+ Cushion Socks (3 Pack)",
+          "handle": "balancecushionsocks3pack",
+          "preco": 39,
+          "publicado": "2026-04-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/BALANCEsocks_Web_IMG51_min.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Premium Bamboo Leg Sleeve (Single)",
+          "handle": "bamboolegsleeve",
+          "preco": 59,
+          "publicado": "2026-01-08",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC32_ProductIMG1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Shipping Protection & Free Returns",
+          "handle": "shipping-protection-free-returns",
+          "preco": 2.99,
+          "publicado": "2025-10-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/shipping-protection.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Premium Bamboo Compression Socks",
+          "handle": "bamboocompressionsocks",
+          "preco": 70,
+          "publicado": "2025-02-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC29_LandingPage1_IMG7-min.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Mystery Gift ($57 Value)",
+          "handle": "mystery-gift-57-value",
+          "preco": 0,
+          "publicado": "2024-05-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/products/MysteryGift_Product_IMG1-1.jpg",
+          "tipo": "free_gift"
+        },
+        {
+          "titulo": "Ultimate 5-Day Meal Plan For Hand Pain  - (Instant Download)",
+          "handle": "ebook5",
+          "preco": 19,
+          "publicado": "2024-02-15",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/HandDiet_IMG1-1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Ultimate 5-Day Meal Plan For Foot Pain  - (Instant Download)",
+          "handle": "ebook6",
+          "preco": 19,
+          "publicado": "2024-02-04",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/FootDiet_IMG1-1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Ultimate 5-Day Meal Plan For Knee Pain  - (Instant Download)",
+          "handle": "ebook4",
+          "preco": 19,
+          "publicado": "2024-01-24",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/KneeDietBook_IMG1-1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Premium Bamboo Ankle Support",
+          "handle": "bambooanklesleeve",
+          "preco": 54,
+          "publicado": "2023-09-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC28_LP2NewLander_IMG9-min.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Premium Bamboo Elbow Sleeve",
+          "handle": "bambooelbow",
+          "preco": 35,
+          "publicado": "2023-05-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC27_LP1_IMG3-min.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Premium Bamboo Wrist Sleeve",
+          "handle": "bamboowrist",
+          "preco": 35,
+          "publicado": "2023-02-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC26-LandingPage_IMG10-min.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Premium Bamboo Anti-Fatigue Calf Sleeve",
+          "handle": "bamboocalfsleeve",
+          "preco": 35,
+          "publicado": "2022-07-13",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC24-Product2-1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Foot Strength & Wellness Sessions",
+          "handle": "footcourse",
+          "preco": 99,
+          "publicado": "2022-06-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/products/OC20_Product_IMG1-2.jpg",
+          "tipo": "Course"
+        },
+        {
+          "titulo": "5 Easy Ways to Combat Knee Pain Ebook - (Instant Download)",
+          "handle": "kneebook",
+          "preco": 19,
+          "publicado": "2022-06-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/products/KneeProduct_IMG1-1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Premium Onecompress™ Gloves",
+          "handle": "onecompressgloves",
+          "preco": 60,
+          "publicado": "2022-05-24",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC17-Product1-NoText-min.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Premium Bamboo Knee Sleeve (Single)",
+          "handle": "bambookneesleeve",
+          "preco": 44,
+          "publicado": "2022-03-15",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC11-Product1-1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Premium Anti-Fatigue Bamboo Footsleeves",
+          "handle": "bamboofootsleeves",
+          "preco": 49,
+          "publicado": "2022-02-24",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC12-Product1-1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Hand Strength & Wellness Course (Sale)",
+          "handle": "handchallengesale",
+          "preco": 37,
+          "publicado": "2022-02-07",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/products/Product-Photo---OC14-3.jpg",
+          "tipo": "Course"
+        },
+        {
+          "titulo": "Hand Strength & Recovery Sessions",
+          "handle": "30-day-hand-wellness-challenge",
+          "preco": 99,
+          "publicado": "2022-02-07",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/products/OC14_Product_IMG5-1.jpg",
+          "tipo": "Course"
+        },
+        {
+          "titulo": "6 Easy Ways to Combat Foot Pain Ebook - (Instant Download)",
+          "handle": "footebook",
+          "preco": 19,
+          "publicado": "2021-11-14",
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/products/Foot---Book-Cover-Mockup---V1.jpg",
+          "tipo": ""
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "colecao": "best-sellers",
+      "produtos": [
+        {
+          "titulo": "Premium Bamboo Knee Sleeve (Single)",
+          "handle": "bambookneesleeve",
+          "preco": 44,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC11-Product1-1.jpg"
+        },
+        {
+          "titulo": "Premium Anti-Fatigue Bamboo Footsleeves",
+          "handle": "bamboofootsleeves",
+          "preco": 49,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC12-Product1-1.jpg"
+        },
+        {
+          "titulo": "Premium Bamboo Leg Sleeve (Single)",
+          "handle": "bamboolegsleeve",
+          "preco": 59,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC32_ProductIMG1.jpg"
+        },
+        {
+          "titulo": "Premium Onecompress™ Gloves",
+          "handle": "onecompressgloves",
+          "preco": 60,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC17-Product1-NoText-min.webp"
+        },
+        {
+          "titulo": "BambooLITE™ Lightweight Compression Socks",
+          "handle": "bamboolitesocks",
+          "preco": 54,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC39-LP1-IMG6_min.jpg"
+        },
+        {
+          "titulo": "Onerelief™ Nerve Lotion",
+          "handle": "nervelotion",
+          "preco": 35,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC38_Initial_IMG2.jpg"
+        },
+        {
+          "titulo": "BALANCE+ Cushion Socks (3 Pack)",
+          "handle": "balancecushionsocks3pack",
+          "preco": 39,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/BALANCEsocks_Web_IMG51_min.jpg"
+        },
+        {
+          "titulo": "Premium Bamboo Ankle Support",
+          "handle": "bambooanklesleeve",
+          "preco": 54,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC28_LP2NewLander_IMG9-min.jpg"
+        },
+        {
+          "titulo": "Premium Bamboo Compression Socks",
+          "handle": "bamboocompressionsocks",
+          "preco": 70,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC29_LandingPage1_IMG7-min.jpg"
+        },
+        {
+          "titulo": "Premium Bamboo Elbow Sleeve",
+          "handle": "bambooelbow",
+          "preco": 35,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC27_LP1_IMG3-min.jpg"
+        },
+        {
+          "titulo": "Premium Bamboo Anti-Fatigue Calf Sleeve",
+          "handle": "bamboocalfsleeve",
+          "preco": 35,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC24-Product2-1.jpg"
+        },
+        {
+          "titulo": "Premium Bamboo Wrist Sleeve",
+          "handle": "bamboowrist",
+          "preco": 35,
+          "imagem": "https://cdn.shopify.com/s/files/1/0084/0430/3968/files/OC26-LandingPage_IMG10-min.jpg"
+        }
+      ]
+    },
+    "wayback": {
+      "primeira_captura": null,
+      "dias_arquivados": 0,
+      "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+    },
+    "tranco": {
+      "rank_atual": 399087,
+      "rank_antigo": 398007,
+      "dias": 36,
+      "variacao": -1080,
+      "tendencia": "caindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 5,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "onecompress": {
+        "seguidores": "29K",
+        "posts": "374",
+        "raw": "29K Followers, 12 Following, 374 Posts - See Instagram photos and videos from Onecompress&#x2122; (&#064;onecompress)"
+      }
+    },
+    "trafego": {
+      "fonte": "SimilarWeb (página pública, via WebFetch; trafego.js bloqueado por CloudFront)",
+      "snapshot": "2026-09",
+      "visitas_mes": 277733,
+      "visitas_nota": "833,2 mil visitas nos últimos 3 meses (média mensal)",
+      "rank_global": 64553,
+      "rank_pais": 13665,
+      "bounce": 55.9,
+      "paginas_visita": 2.77,
+      "variacao_mes": -19.41,
+      "share_us": 87.34,
+      "canais": "Social pago 29,13% (1º), display (2º), direto (3º)"
+    },
+    "midia": {
+      "ativos": 2379,
+      "historico": 2923,
+      "page_ids": [
+        "865468883845266",
+        "100708424964575",
+        "106490588530926",
+        "101568062195983",
+        "906323945890531",
+        "862228890316678",
+        "943956908798923",
+        "923114807557030",
+        "839880699213889"
+      ],
+      "snapshot_em": "2026-10-06"
+    }
+  },
+  "stepprs.com": {
+    "dominio": "stepprs.com",
+    "coletado_em": "2026-10-06T18:02:59",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "clarity",
+        "gempages",
+        "gtag",
+        "gtm",
+        "judge.me",
+        "klaviyo",
+        "pinterest",
+        "recharge",
+        "snap",
+        "tiktok",
+        "triplewhale",
+        "zipify"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://tiktok.com/@stepprs.com",
+        "https://www.facebook.com/stepprs",
+        "https://www.instagram.com/getstepprs",
+        "https://youtube.com/@stepprs"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 21,
+      "n_variantes": 274,
+      "preco_min": 13,
+      "preco_mediana": 39,
+      "preco_max": 500,
+      "primeiro_produto": "2024-08-03",
+      "ultimo_produto": "2026-05-02",
+      "vendors": [
+        "Stepprs"
+      ],
+      "tipos": [
+        "Tool",
+        "Insoles",
+        "Footwear",
+        "Bundles",
+        "",
+        "Massage",
+        "Height",
+        "Pads",
+        "Socks"
+      ],
+      "produtos": [
+        {
+          "titulo": "Foot Spa",
+          "handle": "foot-spa",
+          "preco": 150,
+          "publicado": "2026-05-02",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-foot-spa-massager-hero-image.webp",
+          "tipo": "Tool"
+        },
+        {
+          "titulo": "Kids Massage Insoles",
+          "handle": "kids-massage-insoles",
+          "preco": 26,
+          "publicado": "2026-01-20",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-orange-insoles-kids-sizes-hero-image-v1.webp",
+          "tipo": "Insoles"
+        },
+        {
+          "titulo": "Plush Insoles",
+          "handle": "plush-insoles",
+          "preco": 27,
+          "publicado": "2025-12-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-plush-insoles-grey-hero-image_b9ed7937-1073-4065-b326-4ca2facc7606.webp",
+          "tipo": "Insoles"
+        },
+        {
+          "titulo": "Foot Massage Slippers",
+          "handle": "foot-massage-slippers",
+          "preco": 39,
+          "publicado": "2025-11-25",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/HeroImage_2f2304a3-3bdb-4a62-aa3d-705a223fc25e.jpg",
+          "tipo": "Footwear"
+        },
+        {
+          "titulo": "Toe Spacers",
+          "handle": "toe-spacers",
+          "preco": 23,
+          "publicado": "2025-11-18",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/HeroImage.jpg",
+          "tipo": "Tool"
+        },
+        {
+          "titulo": "Ultimate Foot Relief Kit",
+          "handle": "ultimate-foot-relief-kit",
+          "preco": 97,
+          "publicado": "2025-11-12",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/UltimateBundle.jpg",
+          "tipo": "Bundles"
+        },
+        {
+          "titulo": "Gift Card",
+          "handle": "gift-card",
+          "preco": 25,
+          "publicado": "2025-11-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/Bronze_GiftCard.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Toe Relief Kit",
+          "handle": "toe-kit",
+          "preco": 39,
+          "publicado": "2025-10-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/Toe_Relief_Orange.jpg",
+          "tipo": "Bundles"
+        },
+        {
+          "titulo": "Heel Relief Kit",
+          "handle": "heel-kit",
+          "preco": 39,
+          "publicado": "2025-10-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/Heel_Relief_Orange.jpg",
+          "tipo": "Bundles"
+        },
+        {
+          "titulo": "Plantar Fasciitis Relief Kit",
+          "handle": "plantar-fasciitis-kit",
+          "preco": 48,
+          "publicado": "2025-10-10",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/PlantarRelief_Orange_b21c58fa-60ad-4444-aaa4-fb4b5f9173f2.jpg",
+          "tipo": "Bundles"
+        },
+        {
+          "titulo": "Arch Support Flip Flops",
+          "handle": "arch-flip-flops",
+          "preco": 48,
+          "publicado": "2025-06-26",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-arch-support-flipflops-khaki-brown-hero-image.webp",
+          "tipo": "Footwear"
+        },
+        {
+          "titulo": "Full Leg Compression Massager",
+          "handle": "full-leg-compression-massager",
+          "preco": 130,
+          "publicado": "2025-06-04",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-full-leg-compression-massager-hero-image.webp",
+          "tipo": "Massage"
+        },
+        {
+          "titulo": "Massage Roller",
+          "handle": "roller",
+          "preco": 29,
+          "publicado": "2025-04-09",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-massage-roller-hero-image.webp",
+          "tipo": "Massage"
+        },
+        {
+          "titulo": "Height Boosters",
+          "handle": "height",
+          "preco": 15,
+          "publicado": "2025-02-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-height-booster-hero-image.webp",
+          "tipo": "Height"
+        },
+        {
+          "titulo": "Massage Insoles",
+          "handle": "massage",
+          "preco": 27,
+          "publicado": "2025-01-30",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-orange-insoles-hero-image.webp",
+          "tipo": "Insoles"
+        },
+        {
+          "titulo": "Toe Cushion Pads",
+          "handle": "cushion-pads",
+          "preco": 13,
+          "publicado": "2024-12-23",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/HeelCushionPad.jpg",
+          "tipo": "Pads"
+        },
+        {
+          "titulo": "Height Insoles",
+          "handle": "height-insoles",
+          "preco": 24,
+          "publicado": "2024-12-23",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-height-insoles-hero-image.webp",
+          "tipo": "Insoles"
+        },
+        {
+          "titulo": "Cashmere Insoles",
+          "handle": "cashmere",
+          "preco": 35,
+          "publicado": "2024-11-07",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/rn-image_picker_lib_temp_d47516b6-5b43-4c4d-bc14-c311571f2b81.webp",
+          "tipo": "Insoles"
+        },
+        {
+          "titulo": "Anti-Slip Grip Socks",
+          "handle": "anti-slip-grip-socks",
+          "preco": 13,
+          "publicado": "2024-10-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-anti-slip-grip-socks-charcoal-black-hero-image.webp",
+          "tipo": "Socks"
+        },
+        {
+          "titulo": "Heel Cushion Pads",
+          "handle": "heel-cushion-pads",
+          "preco": 13,
+          "publicado": "2024-09-23",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-heel-cushion-pads-beige-hero-image.webp",
+          "tipo": "Pads"
+        },
+        {
+          "titulo": "Compression Socks",
+          "handle": "socks",
+          "preco": 20,
+          "publicado": "2024-08-03",
+          "imagem": "https://cdn.shopify.com/s/files/1/0804/7935/5213/files/stepprs-compression-socks-beige-hero-image.webp",
+          "tipo": "Socks"
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": null,
+      "dias_arquivados": 0,
+      "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+    },
+    "tranco": {
+      "rank_atual": 539302,
+      "rank_antigo": 492795,
+      "dias": 36,
+      "variacao": -46507,
+      "tendencia": "caindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 9,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "getstepprs": {
+        "seguidores": "103K",
+        "posts": "243",
+        "raw": "103K Followers, 0 Following, 243 Posts - See Instagram photos and videos from Stepprs (&#064;getstepprs)"
+      }
+    },
+    "trafego": {
+      "fonte": "SimilarWeb (página pública, via WebFetch; trafego.js bloqueado por CloudFront)",
+      "snapshot": "2026-09",
+      "visitas_mes": 231100,
+      "visitas_nota": "693,3 mil visitas nos últimos 3 meses (média mensal)",
+      "rank_global": 80484,
+      "rank_pais": 29954,
+      "bounce": 58.68,
+      "paginas_visita": 2.32,
+      "variacao_mes": -2.94,
+      "share_us": 61.17,
+      "canais": "Direto 26,53% (1º), social pago (2º), display (3º)"
+    },
+    "midia": {
+      "ativos": 1340,
+      "historico": 19542,
+      "page_ids": [
+        "216540858213050",
+        "992450147285005",
+        "906801832526130"
+      ],
+      "snapshot_em": "2026-10-06"
+    }
+  },
+  "orthoflexx.com": {
+    "dominio": "orthoflexx.com",
+    "coletado_em": "2026-10-06T18:03:11",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "clarity",
+        "gtag",
+        "hotjar",
+        "klaviyo",
+        "snap",
+        "triplewhale"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [
+        "https://facebook.com/orthoflexx",
+        "https://www.instagram.com/orthoflexx_official"
+      ],
+      "nota_social": null
+    },
+    "catalogo": {
+      "n_produtos": 3,
+      "n_variantes": 9,
+      "preco_min": 19.99,
+      "preco_mediana": 64.95,
+      "preco_max": 64.95,
+      "primeiro_produto": "2022-05-08",
+      "ultimo_produto": "2024-08-26",
+      "vendors": [
+        "OrthoFlexx®"
+      ],
+      "tipos": [
+        ""
+      ],
+      "produtos": [
+        {
+          "titulo": "Max Arch Support Insoles",
+          "handle": "max-arch-support-insoles",
+          "preco": 64.95,
+          "publicado": "2024-08-26",
+          "imagem": "https://cdn.shopify.com/s/files/1/0450/6818/9860/files/Orthoflexx_Max_Arch_Support_Insoles.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Achilles Cushions",
+          "handle": "heel-cushions",
+          "preco": 19.99,
+          "publicado": "2023-08-11",
+          "imagem": "https://cdn.shopify.com/s/files/1/0450/6818/9860/files/Achillis_cushion.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Light Arch Support Insoles",
+          "handle": "light-arch-insoles",
+          "preco": 49.95,
+          "publicado": "2022-05-08",
+          "imagem": "https://cdn.shopify.com/s/files/1/0450/6818/9860/files/img_0_e798d677-0681-48d3-98ab-c34eb549ad83.webp",
+          "tipo": ""
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": null,
+      "dias_arquivados": 0,
+      "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+    },
+    "tranco": {
+      "rank_atual": 4289065,
+      "rank_antigo": 3956205,
+      "dias": 16,
+      "variacao": -332860,
+      "tendencia": "caindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 29,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {
+      "orthoflexx_official": {
+        "seguidores": "17K",
+        "posts": "448",
+        "raw": "17K Followers, 90 Following, 448 Posts - See Instagram photos and videos from OrthoFlexx (&#064;orthoflexx_official)"
+      }
+    },
+    "trafego": {
+      "fonte": "SimilarWeb (página pública, via WebFetch; trafego.js bloqueado por CloudFront)",
+      "snapshot": "2026-09",
+      "visitas_mes": null,
+      "visitas_nota": "total não exibido na página pública; estimado pelo rank (#638.911, entre Footstr #998.775 = ~7 mil e Stepprs #80.484 = ~231 mil)",
+      "rank_global": 638911,
+      "rank_pais": 181156,
+      "bounce": 39.92,
+      "paginas_visita": 2.83,
+      "variacao_mes": 11.19,
+      "share_us": 77.94,
+      "canais": "Social pago 24,46% (1º), direto (2º), display (3º)"
+    },
+    "midia": {
+      "ativos": 996,
+      "historico": 1260,
+      "page_ids": [
+        "237258934014013"
+      ],
+      "snapshot_em": "2026-10-06"
+    }
+  },
+  "getfootstr.com": {
+    "dominio": "getfootstr.com",
+    "coletado_em": "2026-10-06T18:03:23",
+    "identificacao": {
+      "plataforma": "shopify",
+      "apps": [
+        "bold",
+        "gempages",
+        "gtag",
+        "gtm",
+        "judge.me",
+        "klarna",
+        "klaviyo",
+        "pinterest",
+        "rebuy",
+        "triplewhale",
+        "upcart"
+      ],
+      "pixel_meta": [],
+      "perfis_sociais": [],
+      "nota_social": "nenhum perfil linkado: indicio de operacao 100% trafego pago"
+    },
+    "catalogo": {
+      "n_produtos": 9,
+      "n_variantes": 164,
+      "preco_min": 2.99,
+      "preco_mediana": 34.99,
+      "preco_max": 34.99,
+      "primeiro_produto": "2025-05-15",
+      "ultimo_produto": "2026-03-05",
+      "vendors": [
+        "My Store",
+        "Footstr"
+      ],
+      "tipos": [
+        "",
+        "Shipping Protection"
+      ],
+      "produtos": [
+        {
+          "titulo": "Footstr™ - InsoleX",
+          "handle": "footstr-insolex-offer-1",
+          "preco": 34.99,
+          "publicado": "2026-03-05",
+          "imagem": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/Gemini_Generated_Image_y8hthvy8hthvy8ht_1080x_455e0d85-2d20-4c55-a408-5c1c74c0d017.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Footstr™ InsoleX",
+          "handle": "footstr-insolex-offer",
+          "preco": 34.99,
+          "publicado": "2026-02-04",
+          "imagem": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/Gemini_Generated_Image_y8hthvy8hthvy8ht_1080x_455e0d85-2d20-4c55-a408-5c1c74c0d017.webp",
+          "tipo": ""
+        },
+        {
+          "titulo": "Heel Cushion Pads",
+          "handle": "heel-relief-pad",
+          "preco": 24.99,
+          "publicado": "2025-12-29",
+          "imagem": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/RATED_1BYPARENTS_KIDS_44.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "KneeGuard Pro",
+          "handle": "kneeguard-pro",
+          "preco": 34.99,
+          "publicado": "2025-10-26",
+          "imagem": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/Gemini_Generated_Image_3pd1ia3pd1ia3pd1.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Shipping Protection",
+          "handle": "shipping-protection-1",
+          "preco": 2.99,
+          "publicado": "2025-09-16",
+          "imagem": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/2331096.png",
+          "tipo": "Shipping Protection"
+        },
+        {
+          "titulo": "Kinesiology Tape",
+          "handle": "kinesiology-tape",
+          "preco": 19.99,
+          "publicado": "2025-07-23",
+          "imagem": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/1.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Massage Roller",
+          "handle": "massage-roller",
+          "preco": 29.99,
+          "publicado": "2025-07-23",
+          "imagem": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/RATED_1_BY_PARENTS_KIDS_17.png",
+          "tipo": ""
+        },
+        {
+          "titulo": "Footstr™ – InsoleX (Adults)",
+          "handle": "footstr-insolex-adults",
+          "preco": 34.99,
+          "publicado": "2025-07-21",
+          "imagem": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/Gemini_Generated_Image_1b3vqb1b3vqb1b3v.jpg",
+          "tipo": ""
+        },
+        {
+          "titulo": "Footstr™ – InsoleX",
+          "handle": "footstr-insolex",
+          "preco": 34.99,
+          "publicado": "2025-05-15",
+          "imagem": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/Gemini_Generated_Image_y8hthvy8hthvy8ht.jpg",
+          "tipo": ""
+        }
+      ],
+      "nota": null
+    },
+    "best_sellers": {
+      "erro": "nenhuma colecao de best sellers publica encontrada",
+      "tentado": [
+        "best-sellers",
+        "bestsellers",
+        "best-selling",
+        "bestseller",
+        "top-sellers",
+        "meistverkauft",
+        "mais-vendidos",
+        "los-mas-vendidos",
+        "best"
+      ]
+    },
+    "wayback": {
+      "primeira_captura": null,
+      "dias_arquivados": 0,
+      "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+    },
+    "tranco": {
+      "rank_atual": 1777135,
+      "rank_antigo": 3274489,
+      "dias": 36,
+      "variacao": 1497354,
+      "tendencia": "subindo",
+      "nota": "rank menor = mais trafego"
+    },
+    "sitemap": {
+      "total_urls": 5,
+      "paginas": [],
+      "possiveis_advertoriais": [],
+      "erro": null
+    },
+    "reviews": {
+      "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+    },
+    "social": {},
+    "trafego": {
+      "fonte": "SimilarWeb (página pública, via WebFetch; trafego.js bloqueado por CloudFront)",
+      "snapshot": "2026-09",
+      "visitas_mes": 6967,
+      "visitas_nota": "20,9 mil visitas nos últimos 3 meses (média mensal)",
+      "rank_global": 998775,
+      "rank_pais": 246334,
+      "bounce": 29.57,
+      "paginas_visita": 3.56,
+      "variacao_mes": -24.88,
+      "share_us": 78.15,
+      "canais": "Direto 39,47% (1º), e-mail (2º), busca paga (3º)"
+    },
+    "midia": {
+      "ativos": 171,
+      "historico": 1720,
+      "page_ids": [
+        "603489799523622",
+        "855167351002898",
+        "1122704424262015",
+        "851429918055798",
+        "717815251424723",
+        "832267249966168"
+      ],
+      "snapshot_em": "2026-10-06"
+    }
+  },
+  "lojas": [
+    {
+      "slug": "koprez",
+      "nome": "Koprez",
+      "dominio": "koprez.com",
+      "produto_campeao": "Koprez® Foot Sleeve",
+      "ativos": 912,
+      "historico": 4045,
+      "sobrevivencia_pct": 22.5,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP DE MARCA",
+      "nivel": "MÉDIO",
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "crescendo",
+      "faturamento": {
+        "ajuste": 0.7,
+        "conv": 2.32,
+        "ticket": 69.98,
+        "pedidos": 6719,
+        "central": 470217,
+        "piso": 282130,
+        "teto": 658303,
+        "midia": 66771,
+        "midia_cpc": 136010
+      },
+      "confianca": "triangulado",
+      "snapshot_em": "2026-10-06"
+    },
+    {
+      "slug": "onecompress",
+      "nome": "One Compress",
+      "dominio": "onecompress.com",
+      "produto_campeao": "Premium Anti-Fatigue Bamboo Footsleeves",
+      "ativos": 2379,
+      "historico": 2923,
+      "sobrevivencia_pct": 81.4,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP DE MARCA",
+      "nivel": "MÉDIO",
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "estável",
+      "faturamento": {
+        "ajuste": 1,
+        "conv": 3.31,
+        "ticket": 49.03,
+        "pedidos": 9193,
+        "central": 450731,
+        "piso": 270439,
+        "teto": 631023,
+        "midia": 64004,
+        "midia_cpc": 130257
+      },
+      "confianca": "medido",
+      "snapshot_em": "2026-10-06"
+    },
+    {
+      "slug": "stepprs",
+      "nome": "Stepprs",
+      "dominio": "stepprs.com",
+      "produto_campeao": "Plantar Fasciitis Relief Kit",
+      "ativos": 1340,
+      "historico": 19542,
+      "sobrevivencia_pct": 6.9,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP DE MARCA",
+      "nivel": "MÉDIO",
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "estável",
+      "faturamento": {
+        "ajuste": 1,
+        "conv": 3.31,
+        "ticket": 49.03,
+        "pedidos": 7649,
+        "central": 375051,
+        "piso": 225030,
+        "teto": 525071,
+        "midia": 53257,
+        "midia_cpc": 108386
+      },
+      "confianca": "medido",
+      "snapshot_em": "2026-10-06"
+    },
+    {
+      "slug": "orthoflexx",
+      "nome": "OrthoFlexx",
+      "dominio": "orthoflexx.com",
+      "produto_campeao": "Max Arch Support Insoles",
+      "ativos": 996,
+      "historico": 1260,
+      "sobrevivencia_pct": 79,
+      "veredito": "MODELAR",
+      "modelo": "DROPSHIP DE MARCA",
+      "nivel": "INICIANTE",
+      "defensabilidade": "CONSTRUÍVEL",
+      "momentum": "crescendo",
+      "faturamento": {
+        "ajuste": 1.25,
+        "conv": 4.14,
+        "ticket": 64.95,
+        "pedidos": 621,
+        "central": 40310,
+        "piso": 24186,
+        "teto": 56433,
+        "midia": 5724,
+        "midia_cpc": 7035
+      },
+      "confianca": "estimado incerto",
+      "snapshot_em": "2026-10-06"
+    },
+    {
+      "slug": "footstr",
+      "nome": "Footstr",
+      "dominio": "getfootstr.com",
+      "produto_campeao": "Footstr™ – InsoleX",
+      "ativos": 171,
+      "historico": 1720,
+      "sobrevivencia_pct": 9.9,
+      "veredito": "OBSERVAR",
+      "modelo": "DROPSHIP PURO",
+      "nivel": "INICIANTE",
+      "defensabilidade": "ARBITRAGEM",
+      "momentum": "retraindo",
+      "faturamento": {
+        "ajuste": 1.25,
+        "conv": 4.14,
+        "ticket": 49.03,
+        "pedidos": 288,
+        "central": 14133,
+        "piso": 8480,
+        "teto": 19787,
+        "midia": 2007,
+        "midia_cpc": 3268
+      },
+      "confianca": "medido",
+      "snapshot_em": "2026-10-06"
+    }
+  ],
+  "decisao_mercado": {
+    "pais": "Estados Unidos (US)",
+    "moeda": "USD",
+    "idioma": "en",
+    "motivo": "maior mercado vivo da matriz (10.958 ativos em \"plantar fasciitis\") e melhor sobrevivência (8,0%)"
+  }
+}

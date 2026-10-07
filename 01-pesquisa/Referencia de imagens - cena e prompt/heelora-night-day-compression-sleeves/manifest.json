@@ -1,0 +1,84 @@
+{
+  "product_handle": "heelora-night-day-compression-sleeves",
+  "competitor": "Koprez",
+  "competitor_product_title": "Koprez® Foot Sleeve",
+  "competitor_page": "https://koprez.com/products/foot-sleeve",
+  "competitor_json": "https://koprez.com/products/foot-sleeve.js",
+  "real_carousel_count": 9,
+  "downloaded_carousel_count": 9,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10005.jpg?v=1786541418",
+      "alt": null,
+      "bytes": 114444
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Koprez_Blue.jpg?v=1786541599",
+      "alt": null,
+      "bytes": 104010
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.jpg",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Koprez_Green.jpg?v=1786541599",
+      "alt": null,
+      "bytes": 98841
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10006.webp?v=1786541418",
+      "alt": null,
+      "bytes": 216073
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10007.webp?v=1786541418",
+      "alt": null,
+      "bytes": 161290
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10008.webp?v=1786541418",
+      "alt": null,
+      "bytes": 196698
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10009.webp?v=1786541418",
+      "alt": null,
+      "bytes": 195166
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10010.webp?v=1786541418",
+      "alt": null,
+      "bytes": 125936
+    },
+    {
+      "position": 9,
+      "original_index_no_carrossel_real": 9,
+      "file": "carrossel-concorrente/referencia-09.webp",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10011.webp?v=1786541418",
+      "alt": null,
+      "bytes": 120291
+    }
+  ]
+}

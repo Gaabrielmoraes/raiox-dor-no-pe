@@ -1,0 +1,54 @@
+{
+  "_nota": "Fase 2.5. Contagem pelo conector Meta Ads (ads_library_search), page_ids achados pelo DOMINIO da loja (search_terms=<dominio>, ALL, sem pais). Ativos e historico = soma das paginas confirmadas. Cadencia = amostra ACTIVE limit=50 (ordenada por recencia). Coletado em 2026-10-06.",
+  "lojas": [
+    {
+      "slug": "koprez", "nome": "Koprez", "dominio": "koprez.com", "metodo": "dominio",
+      "page_ids": ["104789644587334", "1301521129705613", "1210064278866234", "1336164929572118"],
+      "paginas": ["Koprez", "Foot Health Digest", "Sarah Mitchell", "The Nurse Veteran"],
+      "ativos": 912, "historico": 4045,
+      "amostra": { "janela_dias": 1.10, "unicos": 13, "anuncios_dia": 45.3, "unicos_semana": 82.7, "duplicacao": 3.8, "rajada": false },
+      "titulos_amostra": ["Most People With Plantar Fasciitis Are Surprised to Learn This", "Plantar fasciitis: your pain is a warning signal", "3 Signs Your Plantar Fasciitis Is About to Become Permanent", "Plantar Fasciitis Stops Being Inflammation After 4 Weeks", "My Mom Did Everything Right for Her Plantar Fasciitis. She Still Got Worse.", "Plantar Fasciitis, Explained With Stick Figures", "The Plantar Fasciitis Sleeve You Forget You're Wearing", "Relieve Plantar Fasciitis Pain NOW", "Why Plantar Fasciitis Won't Heal, Explained in 1 Drawing", "Limited Time Buy 1 Get 1 FREE + 30-Day Money-Back Guarantee", "I was too young for that airport wheelchair", "Same heel pain. Two sisters. Two different endings.", "Buy 1 Get 1 FREE"]
+    },
+    {
+      "slug": "onecompress", "nome": "One Compress", "dominio": "onecompress.com", "metodo": "dominio",
+      "page_ids": ["865468883845266", "100708424964575", "106490588530926", "101568062195983", "906323945890531", "862228890316678", "943956908798923", "923114807557030", "839880699213889"],
+      "paginas": ["Onecompress", "One Compress", "The Modern", "Pure Living Digest", "Helen Whitman", "Clinic Discussions", "Dad Advice From Hank", "Reddit Relief", "Mark Johnson"],
+      "ativos": 2379, "historico": 2923,
+      "amostra": { "janela_dias": 7.28, "unicos": 20, "anuncios_dia": 6.9, "unicos_semana": 19.2, "duplicacao": 2.5, "rajada": false },
+      "titulos_amostra": ["NEW Bamboo Cushioned Compression Socks [Buy 1 Pair, Get 2 FREE]", "combat foot pains while sleeping - NEW product available now", "Why your knee still feels stiff after surgery", "Put An End To Knee Pain For Good!", "best hip replacement pajama ever - 41% OFF today", "For that burning hand feeling"],
+      "nota": "Operacao multi-dor (mao, joelho, quadril, pe). So parte dos 2.379 ativos e de pe."
+    },
+    {
+      "slug": "stepprs", "nome": "Stepprs", "dominio": "stepprs.com", "metodo": "dominio",
+      "page_ids": ["216540858213050", "992450147285005", "906801832526130"],
+      "paginas": ["Stepprs", "Foot Health Club", "Laura Bennet"],
+      "ativos": 1340, "historico": 19542,
+      "amostra": { "janela_dias": 0.10, "unicos": 3, "anuncios_dia": null, "unicos_semana": null, "duplicacao": 16.7, "rajada": true },
+      "titulos_amostra": ["Walk on Clouds - Or It's FREE.", "Up to 60% OFF, Today Only", "#1 Relief Solution in 2026"]
+    },
+    {
+      "slug": "orthoflexx", "nome": "OrthoFlexx", "dominio": "orthoflexx.com", "metodo": "dominio",
+      "page_ids": ["237258934014013"], "paginas": ["OrthoFlexx"],
+      "ativos": 996, "historico": 1260,
+      "amostra": { "janela_dias": 2.92, "unicos": 1, "anuncios_dia": 17.1, "unicos_semana": 2.4, "duplicacao": 50, "rajada": false },
+      "titulos_amostra": ["Extra Firm Arch Support Insoles"]
+    },
+    {
+      "slug": "footstr", "nome": "Footstr", "dominio": "getfootstr.com", "metodo": "dominio",
+      "page_ids": ["603489799523622", "855167351002898", "1122704424262015", "851429918055798", "717815251424723", "832267249966168"],
+      "paginas": ["Footstr", "Heel Pain Journal", "Growing Feet Journal", "Dr. Blane - Pediatric Specialist", "Foot Alignment Journal", "Monica Carver"],
+      "ativos": 171, "historico": 1720,
+      "amostra": { "janela_dias": 10.58, "unicos": 7, "anuncios_dia": 4.7, "unicos_semana": 4.6, "duplicacao": 7.1, "rajada": false },
+      "titulos_amostra": ["Support Flat Feet the Right Way", "Footstr Closing Sale - Ending Midnight", "Support Growing Feet the Right Way", "#1 Solution for Kids With Flat Feet", "Rated #1 by Parents and Kids Alike", "Don't make the same mistake I did", "Every soccer-mom needs to see this"],
+      "nota": "Anuncio mais recente criado ha ~8 dias: ritmo de teste desacelerando. 'Closing Sale' e gatilho de urgencia, o site segue operando (Fall Sale)."
+    }
+  ],
+  "contexto_fora_da_entrega": [
+    { "nome": "Fascora (trydigestiq.com)", "ativos": 369, "historico": 369, "motivo": "pagina nova (todos os anuncios com ~3 dias): lancamento agressivo, sem prova de venda >=30 dias. Reprova no gate." },
+    { "nome": "XSTANCE (getxstance.com)", "motivo": "MARCA: BigCommerce, endereco fisico em Utah, palmilha propria. 55 anuncios na mineracao, 524 dias no ar. Contexto, nao molde." },
+    { "nome": "OrthoFit Store", "motivo": "anuncios em AUD: mira Australia, nao EUA." },
+    { "nome": "Rebloom (myrebloom.com)", "motivo": "anuncios em SEK: mira Suecia." },
+    { "nome": "Feetures, PowerStep, KURU, Orthofeet, Currex, Fulton", "motivo": "MARCA com estoque proprio/varejo: nao replicavel." },
+    { "nome": "Senzio, Bronoir, Treatmedy, Vibit, Kovaria", "motivo": "outra categoria (pomada, calcado, joanete) ou aparelho de ticket alto: fora do recorte iniciante." }
+  ]
+}

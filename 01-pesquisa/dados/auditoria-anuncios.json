@@ -1,0 +1,182 @@
+{
+  "data": "2026-10-06",
+  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL)",
+  "lojas": [
+    {
+      "loja": "Koprez",
+      "dominio": "koprez.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "104789644587334",
+        "1301521129705613",
+        "1210064278866234",
+        "1336164929572118"
+      ],
+      "tentativas": [
+        "search_terms=koprez.com (ALL, sem país)"
+      ],
+      "reportado": {
+        "ativos": 912,
+        "historico": 4045
+      },
+      "biblioteca": {
+        "ativos": 912,
+        "historico": 4045
+      },
+      "nota": "páginas confirmadas pelo domínio de destino: Koprez, Foot Health Digest, Sarah Mitchell, The Nurse Veteran"
+    },
+    {
+      "loja": "One Compress",
+      "dominio": "onecompress.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "865468883845266",
+        "100708424964575",
+        "106490588530926",
+        "101568062195983",
+        "906323945890531",
+        "862228890316678",
+        "943956908798923",
+        "923114807557030",
+        "839880699213889"
+      ],
+      "tentativas": [
+        "search_terms=onecompress.com (ALL, sem país)"
+      ],
+      "reportado": {
+        "ativos": 2379,
+        "historico": 2923
+      },
+      "biblioteca": {
+        "ativos": 2379,
+        "historico": 2923
+      },
+      "nota": "páginas confirmadas pelo domínio de destino: Onecompress, One Compress, The Modern, Pure Living Digest, Helen Whitman, Clinic Discussions, Dad Advice From Hank, Reddit Relief, Mark Johnson"
+    },
+    {
+      "loja": "Stepprs",
+      "dominio": "stepprs.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "216540858213050",
+        "992450147285005",
+        "906801832526130"
+      ],
+      "tentativas": [
+        "search_terms=stepprs.com (ALL, sem país)"
+      ],
+      "reportado": {
+        "ativos": 1340,
+        "historico": 19542
+      },
+      "biblioteca": {
+        "ativos": 1340,
+        "historico": 19542
+      },
+      "nota": "páginas confirmadas pelo domínio de destino: Stepprs, Foot Health Club, Laura Bennet"
+    },
+    {
+      "loja": "OrthoFlexx",
+      "dominio": "orthoflexx.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "237258934014013"
+      ],
+      "tentativas": [
+        "search_terms=orthoflexx.com (ALL, sem país)"
+      ],
+      "reportado": {
+        "ativos": 996,
+        "historico": 1260
+      },
+      "biblioteca": {
+        "ativos": 996,
+        "historico": 1260
+      },
+      "nota": "páginas confirmadas pelo domínio de destino: OrthoFlexx"
+    },
+    {
+      "loja": "Footstr",
+      "dominio": "getfootstr.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "603489799523622",
+        "855167351002898",
+        "1122704424262015",
+        "851429918055798",
+        "717815251424723",
+        "832267249966168"
+      ],
+      "tentativas": [
+        "search_terms=getfootstr.com (ALL, sem país)"
+      ],
+      "reportado": {
+        "ativos": 171,
+        "historico": 1720
+      },
+      "biblioteca": {
+        "ativos": 171,
+        "historico": 1720
+      },
+      "nota": "páginas confirmadas pelo domínio de destino: Footstr, Heel Pain Journal, Growing Feet Journal, Dr. Blane - Pediatric Specialist, Foot Alignment Journal, Monica Carver"
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-10-07",
+    "aprovado": true,
+    "problemas": [],
+    "avisos": [],
+    "lojas": [
+      {
+        "loja": "Koprez",
+        "dominio": "koprez.com",
+        "metodo": "dominio",
+        "reportado_ativos": 912,
+        "biblioteca_ativos": 912,
+        "biblioteca_historico": 4045,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "One Compress",
+        "dominio": "onecompress.com",
+        "metodo": "dominio",
+        "reportado_ativos": 2379,
+        "biblioteca_ativos": 2379,
+        "biblioteca_historico": 2923,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Stepprs",
+        "dominio": "stepprs.com",
+        "metodo": "dominio",
+        "reportado_ativos": 1340,
+        "biblioteca_ativos": 1340,
+        "biblioteca_historico": 19542,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "OrthoFlexx",
+        "dominio": "orthoflexx.com",
+        "metodo": "dominio",
+        "reportado_ativos": 996,
+        "biblioteca_ativos": 996,
+        "biblioteca_historico": 1260,
+        "divergencia_pct": 0,
+        "ok": true
+      },
+      {
+        "loja": "Footstr",
+        "dominio": "getfootstr.com",
+        "metodo": "dominio",
+        "reportado_ativos": 171,
+        "biblioteca_ativos": 171,
+        "biblioteca_historico": 1720,
+        "divergencia_pct": 0,
+        "ok": true
+      }
+    ]
+  }
+}

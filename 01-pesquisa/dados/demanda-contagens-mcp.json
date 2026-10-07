@@ -1,0 +1,24 @@
+{
+  "geradoEm": "2026-10-07",
+  "escopo": "EUA, somente anúncios ativos (ACTIVE), contagem exata",
+  "fonte": "conector Meta Ads (ads_library_search, estimated_total_count)",
+  "substitui": "contagem-2026-10-06.json (raspagem da Biblioteca pública, feita quando o conector caiu)",
+  "ruido": ["feet hurt standing all day", "arch support"],
+  "linhas": [
+    { "termo": "plantar fasciitis socks", "pais": "US", "total": 777 },
+    { "termo": "plantar fasciitis insoles", "pais": "US", "total": 2455 },
+    { "termo": "plantar fasciitis sleeve", "pais": "US", "total": 1070 },
+    { "termo": "heel pain relief", "pais": "US", "total": 6006 },
+    { "termo": "foot pain relief", "pais": "US", "total": 17841 },
+    { "termo": "arch support insoles", "pais": "US", "total": 4254 },
+    { "termo": "night splint plantar fasciitis", "pais": "US", "total": 517 },
+    { "termo": "heel spur", "pais": "US", "total": 206 },
+    { "termo": "compression socks plantar fasciitis", "pais": "US", "total": 528 },
+    { "termo": "heel cups", "pais": "US", "total": 642 },
+    { "termo": "foot massage ball", "pais": "US", "total": 1028 },
+    { "termo": "foot massage roller", "pais": "US", "total": 379 },
+    { "termo": "plantar fasciitis relief", "pais": "US", "total": 4362 },
+    { "termo": "feet hurt standing all day", "pais": "US", "total": 122177 },
+    { "termo": "arch support", "pais": "US", "total": 20011 }
+  ]
+}

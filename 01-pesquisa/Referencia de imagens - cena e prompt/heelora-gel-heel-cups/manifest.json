@@ -1,0 +1,28 @@
+{
+  "product_handle": "heelora-gel-heel-cups",
+  "competitor": "Footstr",
+  "competitor_product_title": "Heel Cushion Pads",
+  "competitor_page": "https://getfootstr.com/products/heel-relief-pad",
+  "competitor_json": "https://getfootstr.com/products/heel-relief-pad.js",
+  "real_carousel_count": 2,
+  "downloaded_carousel_count": 2,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/RATED_1BYPARENTS_KIDS_44.png?v=1765912082",
+      "alt": null,
+      "bytes": 326501
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/GelEmbedded.png?v=1765912896",
+      "alt": null,
+      "bytes": 450622
+    }
+  ]
+}

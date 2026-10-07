@@ -1,0 +1,52 @@
+{
+  "product_handle": "heelora-morning-foot-roller",
+  "competitor": "Footstr",
+  "competitor_product_title": "Massage Roller",
+  "competitor_page": "https://getfootstr.com/products/massage-roller",
+  "competitor_json": "https://getfootstr.com/products/massage-roller.js",
+  "real_carousel_count": 5,
+  "downloaded_carousel_count": 5,
+  "amostrado": false,
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/RATED_1_BY_PARENTS_KIDS_17.png?v=1753269261",
+      "alt": null,
+      "bytes": 344000
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/19.png?v=1753270113",
+      "alt": null,
+      "bytes": 304197
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/20.png?v=1753270112",
+      "alt": null,
+      "bytes": 238128
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/21.png?v=1753270112",
+      "alt": null,
+      "bytes": 231261
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.png",
+      "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/22.png?v=1753270112",
+      "alt": null,
+      "bytes": 266939
+    }
+  ]
+}

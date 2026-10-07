@@ -1,0 +1,342 @@
+{
+  "fonte": "MCP (conector Meta Ads)",
+  "geradoEm": "2026-10-06T15:18:32.039Z",
+  "consultas": [
+    {
+      "id": 1,
+      "termo": "foot pain",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 57129
+    },
+    {
+      "id": 2,
+      "termo": "foot pain",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 9774950
+    },
+    {
+      "id": 3,
+      "termo": "foot pain",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 18773
+    },
+    {
+      "id": 4,
+      "termo": "foot pain",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 6228363
+    },
+    {
+      "id": 5,
+      "termo": "foot pain",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 16261
+    },
+    {
+      "id": 6,
+      "termo": "foot pain",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 8437196
+    },
+    {
+      "id": 7,
+      "termo": "foot pain",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 17446
+    },
+    {
+      "id": 8,
+      "termo": "foot pain",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 6470632
+    },
+    {
+      "id": 9,
+      "termo": "foot pain",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 6116
+    },
+    {
+      "id": 10,
+      "termo": "foot pain",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 2401593
+    },
+    {
+      "id": 11,
+      "termo": "foot pain",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 5179
+    },
+    {
+      "id": 12,
+      "termo": "foot pain",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 1655075
+    },
+    {
+      "id": 13,
+      "termo": "foot pain",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 5423
+    },
+    {
+      "id": 14,
+      "termo": "foot pain",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 2030328
+    },
+    {
+      "id": 15,
+      "termo": "foot pain",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 4612
+    },
+    {
+      "id": 16,
+      "termo": "foot pain",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 1137725
+    },
+    {
+      "id": 17,
+      "termo": "plantar fasciitis",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 10958
+    },
+    {
+      "id": 18,
+      "termo": "plantar fasciitis",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 125553
+    },
+    {
+      "id": 19,
+      "termo": "plantar fasciitis",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 2681
+    },
+    {
+      "id": 20,
+      "termo": "plantar fasciitis",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 113389
+    },
+    {
+      "id": 21,
+      "termo": "plantar fasciitis",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 2584
+    },
+    {
+      "id": 22,
+      "termo": "plantar fasciitis",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 151067
+    },
+    {
+      "id": 23,
+      "termo": "plantar fasciitis",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 2384
+    },
+    {
+      "id": 24,
+      "termo": "plantar fasciitis",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 91826
+    },
+    {
+      "id": 25,
+      "termo": "plantar fasciitis",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 624
+    },
+    {
+      "id": 26,
+      "termo": "plantar fasciitis",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 24047
+    },
+    {
+      "id": 27,
+      "termo": "plantar fasciitis",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 772
+    },
+    {
+      "id": 28,
+      "termo": "plantar fasciitis",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 23406
+    },
+    {
+      "id": 29,
+      "termo": "plantar fasciitis",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 737
+    },
+    {
+      "id": 30,
+      "termo": "plantar fasciitis",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 19746
+    },
+    {
+      "id": 31,
+      "termo": "plantar fasciitis",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 809
+    },
+    {
+      "id": 32,
+      "termo": "plantar fasciitis",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 26971
+    },
+    {
+      "id": 33,
+      "termo": "heel pain",
+      "pais": "US",
+      "status": "ACTIVE",
+      "total": 19922
+    },
+    {
+      "id": 34,
+      "termo": "heel pain",
+      "pais": "US",
+      "status": "INACTIVE",
+      "total": 3641235
+    },
+    {
+      "id": 35,
+      "termo": "heel pain",
+      "pais": "CA",
+      "status": "ACTIVE",
+      "total": 6131
+    },
+    {
+      "id": 36,
+      "termo": "heel pain",
+      "pais": "CA",
+      "status": "INACTIVE",
+      "total": 2330147
+    },
+    {
+      "id": 37,
+      "termo": "heel pain",
+      "pais": "GB",
+      "status": "ACTIVE",
+      "total": 5440
+    },
+    {
+      "id": 38,
+      "termo": "heel pain",
+      "pais": "GB",
+      "status": "INACTIVE",
+      "total": 3055242
+    },
+    {
+      "id": 39,
+      "termo": "heel pain",
+      "pais": "AU",
+      "status": "ACTIVE",
+      "total": 5620
+    },
+    {
+      "id": 40,
+      "termo": "heel pain",
+      "pais": "AU",
+      "status": "INACTIVE",
+      "total": 2377465
+    },
+    {
+      "id": 41,
+      "termo": "heel pain",
+      "pais": "DE",
+      "status": "ACTIVE",
+      "total": 2423
+    },
+    {
+      "id": 42,
+      "termo": "heel pain",
+      "pais": "DE",
+      "status": "INACTIVE",
+      "total": 757322
+    },
+    {
+      "id": 43,
+      "termo": "heel pain",
+      "pais": "FR",
+      "status": "ACTIVE",
+      "total": 2093
+    },
+    {
+      "id": 44,
+      "termo": "heel pain",
+      "pais": "FR",
+      "status": "INACTIVE",
+      "total": 520050
+    },
+    {
+      "id": 45,
+      "termo": "heel pain",
+      "pais": "NL",
+      "status": "ACTIVE",
+      "total": 2134
+    },
+    {
+      "id": 46,
+      "termo": "heel pain",
+      "pais": "NL",
+      "status": "INACTIVE",
+      "total": 751037
+    },
+    {
+      "id": 47,
+      "termo": "heel pain",
+      "pais": "ES",
+      "status": "ACTIVE",
+      "total": 1736
+    },
+    {
+      "id": 48,
+      "termo": "heel pain",
+      "pais": "ES",
+      "status": "INACTIVE",
+      "total": 373786
+    }
+  ]
+}

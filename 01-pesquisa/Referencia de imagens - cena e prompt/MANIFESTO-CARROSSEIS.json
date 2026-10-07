@@ -1,0 +1,222 @@
+{
+  "generated_at": "2026-10-07T00:06:39.214Z",
+  "rule": "Carrossel completo da PDP do concorrente campeão escolhido por produto. Se o carrossel real tiver mais que o teto (12, ou o \"cap\" declarado no build.json pra esse produto), a amostra é espaçada (primeiro + último inclusos), declarada em amostrado/total_real.",
+  "products": [
+    {
+      "product_handle": "heelora-night-day-compression-sleeves",
+      "competitor": "Koprez",
+      "competitor_product_title": "Koprez® Foot Sleeve",
+      "competitor_page": "https://koprez.com/products/foot-sleeve",
+      "competitor_json": "https://koprez.com/products/foot-sleeve.js",
+      "real_carousel_count": 9,
+      "downloaded_carousel_count": 9,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10005.jpg?v=1786541418",
+          "alt": null,
+          "bytes": 114444
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Koprez_Blue.jpg?v=1786541599",
+          "alt": null,
+          "bytes": 104010
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.jpg",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/Koprez_Green.jpg?v=1786541599",
+          "alt": null,
+          "bytes": 98841
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10006.webp?v=1786541418",
+          "alt": null,
+          "bytes": 216073
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10007.webp?v=1786541418",
+          "alt": null,
+          "bytes": 161290
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10008.webp?v=1786541418",
+          "alt": null,
+          "bytes": 196698
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10009.webp?v=1786541418",
+          "alt": null,
+          "bytes": 195166
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10010.webp?v=1786541418",
+          "alt": null,
+          "bytes": 125936
+        },
+        {
+          "position": 9,
+          "original_index_no_carrossel_real": 9,
+          "file": "carrossel-concorrente/referencia-09.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0278/7678/6259/files/10011.webp?v=1786541418",
+          "alt": null,
+          "bytes": 120291
+        }
+      ]
+    },
+    {
+      "product_handle": "heelora-arch-support-insoles",
+      "competitor": "OrthoFlexx",
+      "competitor_product_title": "Max Arch Support Insoles",
+      "competitor_page": "https://orthoflexx.com/products/max-arch-support-insoles",
+      "competitor_json": "https://orthoflexx.com/products/max-arch-support-insoles.js",
+      "real_carousel_count": 5,
+      "downloaded_carousel_count": 5,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0450/6818/9860/files/Orthoflexx_Max_Arch_Support_Insoles.webp?v=1764716629",
+          "alt": "Orthoflexx Max Arch Support Insoles",
+          "bytes": 92177
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0450/6818/9860/files/before_after_f048135d-e17d-45fe-aaeb-390c38e7a940.webp?v=1790527477",
+          "alt": null,
+          "bytes": 138300
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0450/6818/9860/files/img_5_71d7d191-258f-400c-be41-b31bf8c8d1e4.webp?v=1789084719",
+          "alt": null,
+          "bytes": 135353
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0450/6818/9860/files/img_4_3_b00d9e90-0044-4f18-b5e1-77a248d9fd9d.webp?v=1790014946",
+          "alt": null,
+          "bytes": 73910
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0450/6818/9860/files/img_4_new.webp?v=1788371478",
+          "alt": null,
+          "bytes": 113828
+        }
+      ]
+    },
+    {
+      "product_handle": "heelora-gel-heel-cups",
+      "competitor": "Footstr",
+      "competitor_product_title": "Heel Cushion Pads",
+      "competitor_page": "https://getfootstr.com/products/heel-relief-pad",
+      "competitor_json": "https://getfootstr.com/products/heel-relief-pad.js",
+      "real_carousel_count": 2,
+      "downloaded_carousel_count": 2,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/RATED_1BYPARENTS_KIDS_44.png?v=1765912082",
+          "alt": null,
+          "bytes": 326501
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/GelEmbedded.png?v=1765912896",
+          "alt": null,
+          "bytes": 450622
+        }
+      ]
+    },
+    {
+      "product_handle": "heelora-morning-foot-roller",
+      "competitor": "Footstr",
+      "competitor_product_title": "Massage Roller",
+      "competitor_page": "https://getfootstr.com/products/massage-roller",
+      "competitor_json": "https://getfootstr.com/products/massage-roller.js",
+      "real_carousel_count": 5,
+      "downloaded_carousel_count": 5,
+      "amostrado": false,
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/RATED_1_BY_PARENTS_KIDS_17.png?v=1753269261",
+          "alt": null,
+          "bytes": 344000
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/19.png?v=1753270113",
+          "alt": null,
+          "bytes": 304197
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/20.png?v=1753270112",
+          "alt": null,
+          "bytes": 238128
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/21.png?v=1753270112",
+          "alt": null,
+          "bytes": 231261
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.png",
+          "source_image_url": "https://cdn.shopify.com/s/files/1/0921/0766/9888/files/22.png?v=1753270112",
+          "alt": null,
+          "bytes": 266939
+        }
+      ]
+    }
+  ]
+}
